@@ -1,0 +1,173 @@
+
+
+{
+    "$id": "http://example.com/example.json", 
+    "type": "object", 
+    "definitions": {}, 
+    "$schema": "http://json-schema.org/draft-07/schema#", 
+    "properties": {
+        "userId": {
+            "$id": "/properties/userId", 
+            "type": "string", 
+            "title": "The Userid Schema ", 
+            "pattern": "^[{(]?[0-9A-F]{8}[-]?([0-9A-F]{4}[-]?){3}[0-9A-F]{12}[)}]?$"
+        }, 
+        "firstName": {
+            "$id": "/properties/firstName", 
+            "type": "string", 
+            "title": "The Firstname Schema ", 
+            "default": "", 
+            "examples": [
+                "Harry"
+            ]
+        }, 
+        "lastName": {
+            "$id": "/properties/lastName", 
+            "type": "string", 
+            "title": "The Lastname Schema ", 
+            "default": "", 
+            "examples": [
+                "Sanderson"
+            ]
+        }, 
+        "role": {
+            "$id": "/properties/role", 
+            "type": "string", 
+            "title": "The Role Schema ", 
+            "enum": [
+                "Admin",
+                "Moderator"
+            ]
+        }, 
+        "profilePicture": {
+            "$id": "/properties/profilePicture", 
+            "type": "string", 
+            "title": "The Profilepicture Schema ", 
+            "default": "", 
+            "examples": [
+                ""
+            ]
+            "pattern": "(https?:\\/\\/.*\\.(?:png|jpg))"
+        }, 
+        "bio": {
+            "$id": "/properties/bio", 
+            "type": "string", 
+            "title": "The Bio Schema ", 
+            "default": "", 
+            "examples": [
+                ""
+            ]
+        }, 
+        "car": {
+            "$id": "/properties/car", 
+            "type": "object", 
+            "properties": {
+                "make": {
+                    "$id": "/properties/car/properties/make", 
+                    "type": "string", 
+                    "title": "The Make Schema ", 
+                    "default": "", 
+                    "examples": [
+                        ""
+                    ]
+                }, 
+                "model": {
+                    "$id": "/properties/car/properties/model", 
+                    "type": "string", 
+                    "title": "The Model Schema ", 
+                    "default": "", 
+                    "examples": [
+                        ""
+                    ]
+                }, 
+                "variant": {
+                    "$id": "/properties/car/properties/variant", 
+                    "type": "string", 
+                    "title": "The Variant Schema ", 
+                    "default": "", 
+                    "examples": [
+                        ""
+                    ]
+                }, 
+                "body": {
+                    "$id": "/properties/car/properties/body", 
+                    "type": "string", 
+                    "title": "The Body Schema ", 
+                    "default": "", 
+                    "examples": [
+                        ""
+                    ]
+                }, 
+                "color": {
+                    "$id": "/properties/car/properties/color", 
+                    "type": "string", 
+                    "title": "The Color Schema ", 
+                    "default": "", 
+                    "examples": [
+                        ""
+                    ]
+                }, 
+                "year": {
+                    "$id": "/properties/car/properties/year", 
+                    "type": "number", 
+                    "title": "The Year Schema "
+                }, 
+                "gearbox": {
+                    "$id": "/properties/car/properties/gearbox", 
+                    "type": "string", 
+                    "title": "The Gearbox Schema ", 
+                    "default": "", 
+                    "enum": [
+                        "Manual",
+                        "Sequential",
+                        "Automatic"
+                    ]
+                }, 
+                "capacity": {
+                    "$id": "/properties/car/properties/capacity", 
+                    "type": "number", 
+                    "title": "The Capacity Schema ", 
+                }, 
+                "cylinders": {
+                    "$id": "/properties/car/properties/cylinders", 
+                    "type": "number", 
+                    "title": "The Cylinders Schema ", 
+                    "minimum": 1,
+                    "maximum": 12
+                }, 
+                "drivetrain": {
+                    "$id": "/properties/car/properties/drivetrain", 
+                    "type": "string", 
+                    "title": "The Drivetrain Schema ", 
+                    "default": "", 
+                    "enum": [
+                        "rear-wheel",
+                        "front-wheel",
+                        "four-wheel"
+                    ]
+                }, 
+                "images": {
+                    "$id": "/properties/car/properties/images", 
+                    "type": "array", 
+                    "items": {
+                        "$id": "/properties/car/properties/images/items", 
+                        "type": "string", 
+                        "title": "The 0th Schema ", 
+                        "default": "", 
+                        "examples": [
+                            ""
+                        ],
+                        "uniqueItems": true,
+                        "items": [
+                            {
+                                "type": "string",
+                                "pattern": "(https?:\\/\\/.*\\.(?:png|jpg))"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
+
