@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home" />
+
+  <item android:id="@+id/navigation_events"
+        android:icon="@drawable/ic_event" />
+
+  <item android:id="@+id/navigation_car_of_the_month"
+        android:icon="@drawable/ic_grade" />
+
+  <item android:id="@+id/navigation_photos"
+        android:icon="@drawable/ic_photo" />
+
+  <item android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more_horiz" />
+
+</menu>

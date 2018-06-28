@@ -26,6 +26,1833 @@ namespace JustStatics.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_fade_in = global::JustStatics.Droid.Resource.Animation.abc_fade_in;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_fade_out = global::JustStatics.Droid.Resource.Animation.abc_fade_out;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_grow_fade_in_from_bottom = global::JustStatics.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_popup_enter = global::JustStatics.Droid.Resource.Animation.abc_popup_enter;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_popup_exit = global::JustStatics.Droid.Resource.Animation.abc_popup_exit;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_shrink_fade_out_from_bottom = global::JustStatics.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_slide_in_bottom = global::JustStatics.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_slide_in_top = global::JustStatics.Droid.Resource.Animation.abc_slide_in_top;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_slide_out_bottom = global::JustStatics.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::JustStatics.Droid.Shared.Resource.Animation.abc_slide_out_top = global::JustStatics.Droid.Resource.Animation.abc_slide_out_top;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_bottom_sheet_slide_in = global::JustStatics.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_bottom_sheet_slide_out = global::JustStatics.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_fab_in = global::JustStatics.Droid.Resource.Animation.design_fab_in;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_fab_out = global::JustStatics.Droid.Resource.Animation.design_fab_out;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_snackbar_in = global::JustStatics.Droid.Resource.Animation.design_snackbar_in;
+			global::JustStatics.Droid.Shared.Resource.Animation.design_snackbar_out = global::JustStatics.Droid.Resource.Animation.design_snackbar_out;
+			global::JustStatics.Droid.Shared.Resource.Animator.design_appbar_state_list_animator = global::JustStatics.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarDivider = global::JustStatics.Droid.Resource.Attribute.actionBarDivider;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarItemBackground = global::JustStatics.Droid.Resource.Attribute.actionBarItemBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarPopupTheme = global::JustStatics.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarSize = global::JustStatics.Droid.Resource.Attribute.actionBarSize;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarSplitStyle = global::JustStatics.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarStyle = global::JustStatics.Droid.Resource.Attribute.actionBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarTabBarStyle = global::JustStatics.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarTabStyle = global::JustStatics.Droid.Resource.Attribute.actionBarTabStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarTabTextStyle = global::JustStatics.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarTheme = global::JustStatics.Droid.Resource.Attribute.actionBarTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionBarWidgetTheme = global::JustStatics.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionButtonStyle = global::JustStatics.Droid.Resource.Attribute.actionButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionDropDownStyle = global::JustStatics.Droid.Resource.Attribute.actionDropDownStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionLayout = global::JustStatics.Droid.Resource.Attribute.actionLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionMenuTextAppearance = global::JustStatics.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionMenuTextColor = global::JustStatics.Droid.Resource.Attribute.actionMenuTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeBackground = global::JustStatics.Droid.Resource.Attribute.actionModeBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeCloseButtonStyle = global::JustStatics.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeCloseDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeCopyDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeCutDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeFindDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModePasteDrawable = global::JustStatics.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModePopupWindowStyle = global::JustStatics.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeSelectAllDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeShareDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeSplitBackground = global::JustStatics.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeStyle = global::JustStatics.Droid.Resource.Attribute.actionModeStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionModeWebSearchDrawable = global::JustStatics.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionOverflowButtonStyle = global::JustStatics.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionOverflowMenuStyle = global::JustStatics.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionProviderClass = global::JustStatics.Droid.Resource.Attribute.actionProviderClass;
+			global::JustStatics.Droid.Shared.Resource.Attribute.actionViewClass = global::JustStatics.Droid.Resource.Attribute.actionViewClass;
+			global::JustStatics.Droid.Shared.Resource.Attribute.activityChooserViewStyle = global::JustStatics.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.alertDialogButtonGroupStyle = global::JustStatics.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.alertDialogCenterButtons = global::JustStatics.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::JustStatics.Droid.Shared.Resource.Attribute.alertDialogStyle = global::JustStatics.Droid.Resource.Attribute.alertDialogStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.alertDialogTheme = global::JustStatics.Droid.Resource.Attribute.alertDialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.allowStacking = global::JustStatics.Droid.Resource.Attribute.allowStacking;
+			global::JustStatics.Droid.Shared.Resource.Attribute.alpha = global::JustStatics.Droid.Resource.Attribute.alpha;
+			global::JustStatics.Droid.Shared.Resource.Attribute.arrowHeadLength = global::JustStatics.Droid.Resource.Attribute.arrowHeadLength;
+			global::JustStatics.Droid.Shared.Resource.Attribute.arrowShaftLength = global::JustStatics.Droid.Resource.Attribute.arrowShaftLength;
+			global::JustStatics.Droid.Shared.Resource.Attribute.autoCompleteTextViewStyle = global::JustStatics.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.background = global::JustStatics.Droid.Resource.Attribute.background;
+			global::JustStatics.Droid.Shared.Resource.Attribute.backgroundSplit = global::JustStatics.Droid.Resource.Attribute.backgroundSplit;
+			global::JustStatics.Droid.Shared.Resource.Attribute.backgroundStacked = global::JustStatics.Droid.Resource.Attribute.backgroundStacked;
+			global::JustStatics.Droid.Shared.Resource.Attribute.backgroundTint = global::JustStatics.Droid.Resource.Attribute.backgroundTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.backgroundTintMode = global::JustStatics.Droid.Resource.Attribute.backgroundTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.barLength = global::JustStatics.Droid.Resource.Attribute.barLength;
+			global::JustStatics.Droid.Shared.Resource.Attribute.behavior_autoHide = global::JustStatics.Droid.Resource.Attribute.behavior_autoHide;
+			global::JustStatics.Droid.Shared.Resource.Attribute.behavior_hideable = global::JustStatics.Droid.Resource.Attribute.behavior_hideable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.behavior_overlapTop = global::JustStatics.Droid.Resource.Attribute.behavior_overlapTop;
+			global::JustStatics.Droid.Shared.Resource.Attribute.behavior_peekHeight = global::JustStatics.Droid.Resource.Attribute.behavior_peekHeight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.behavior_skipCollapsed = global::JustStatics.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::JustStatics.Droid.Shared.Resource.Attribute.borderWidth = global::JustStatics.Droid.Resource.Attribute.borderWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.borderlessButtonStyle = global::JustStatics.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.bottomSheetDialogTheme = global::JustStatics.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.bottomSheetStyle = global::JustStatics.Droid.Resource.Attribute.bottomSheetStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonBarButtonStyle = global::JustStatics.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonBarNegativeButtonStyle = global::JustStatics.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonBarNeutralButtonStyle = global::JustStatics.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonBarPositiveButtonStyle = global::JustStatics.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonBarStyle = global::JustStatics.Droid.Resource.Attribute.buttonBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonGravity = global::JustStatics.Droid.Resource.Attribute.buttonGravity;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonPanelSideLayout = global::JustStatics.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonStyle = global::JustStatics.Droid.Resource.Attribute.buttonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonStyleSmall = global::JustStatics.Droid.Resource.Attribute.buttonStyleSmall;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonTint = global::JustStatics.Droid.Resource.Attribute.buttonTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.buttonTintMode = global::JustStatics.Droid.Resource.Attribute.buttonTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.checkboxStyle = global::JustStatics.Droid.Resource.Attribute.checkboxStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.checkedTextViewStyle = global::JustStatics.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.closeIcon = global::JustStatics.Droid.Resource.Attribute.closeIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.closeItemLayout = global::JustStatics.Droid.Resource.Attribute.closeItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.collapseContentDescription = global::JustStatics.Droid.Resource.Attribute.collapseContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Attribute.collapseIcon = global::JustStatics.Droid.Resource.Attribute.collapseIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.collapsedTitleGravity = global::JustStatics.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::JustStatics.Droid.Shared.Resource.Attribute.collapsedTitleTextAppearance = global::JustStatics.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.color = global::JustStatics.Droid.Resource.Attribute.color;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorAccent = global::JustStatics.Droid.Resource.Attribute.colorAccent;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorBackgroundFloating = global::JustStatics.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorButtonNormal = global::JustStatics.Droid.Resource.Attribute.colorButtonNormal;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorControlActivated = global::JustStatics.Droid.Resource.Attribute.colorControlActivated;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorControlHighlight = global::JustStatics.Droid.Resource.Attribute.colorControlHighlight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorControlNormal = global::JustStatics.Droid.Resource.Attribute.colorControlNormal;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorPrimary = global::JustStatics.Droid.Resource.Attribute.colorPrimary;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorPrimaryDark = global::JustStatics.Droid.Resource.Attribute.colorPrimaryDark;
+			global::JustStatics.Droid.Shared.Resource.Attribute.colorSwitchThumbNormal = global::JustStatics.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::JustStatics.Droid.Shared.Resource.Attribute.commitIcon = global::JustStatics.Droid.Resource.Attribute.commitIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetEnd = global::JustStatics.Droid.Resource.Attribute.contentInsetEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetEndWithActions = global::JustStatics.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetLeft = global::JustStatics.Droid.Resource.Attribute.contentInsetLeft;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetRight = global::JustStatics.Droid.Resource.Attribute.contentInsetRight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetStart = global::JustStatics.Droid.Resource.Attribute.contentInsetStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentInsetStartWithNavigation = global::JustStatics.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::JustStatics.Droid.Shared.Resource.Attribute.contentScrim = global::JustStatics.Droid.Resource.Attribute.contentScrim;
+			global::JustStatics.Droid.Shared.Resource.Attribute.controlBackground = global::JustStatics.Droid.Resource.Attribute.controlBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.counterEnabled = global::JustStatics.Droid.Resource.Attribute.counterEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.counterMaxLength = global::JustStatics.Droid.Resource.Attribute.counterMaxLength;
+			global::JustStatics.Droid.Shared.Resource.Attribute.counterOverflowTextAppearance = global::JustStatics.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.counterTextAppearance = global::JustStatics.Droid.Resource.Attribute.counterTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.customNavigationLayout = global::JustStatics.Droid.Resource.Attribute.customNavigationLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.defaultQueryHint = global::JustStatics.Droid.Resource.Attribute.defaultQueryHint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dialogPreferredPadding = global::JustStatics.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dialogTheme = global::JustStatics.Droid.Resource.Attribute.dialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.displayOptions = global::JustStatics.Droid.Resource.Attribute.displayOptions;
+			global::JustStatics.Droid.Shared.Resource.Attribute.divider = global::JustStatics.Droid.Resource.Attribute.divider;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dividerHorizontal = global::JustStatics.Droid.Resource.Attribute.dividerHorizontal;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dividerPadding = global::JustStatics.Droid.Resource.Attribute.dividerPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dividerVertical = global::JustStatics.Droid.Resource.Attribute.dividerVertical;
+			global::JustStatics.Droid.Shared.Resource.Attribute.drawableSize = global::JustStatics.Droid.Resource.Attribute.drawableSize;
+			global::JustStatics.Droid.Shared.Resource.Attribute.drawerArrowStyle = global::JustStatics.Droid.Resource.Attribute.drawerArrowStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dropDownListViewStyle = global::JustStatics.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.dropdownListPreferredItemHeight = global::JustStatics.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.editTextBackground = global::JustStatics.Droid.Resource.Attribute.editTextBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.editTextColor = global::JustStatics.Droid.Resource.Attribute.editTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.editTextStyle = global::JustStatics.Droid.Resource.Attribute.editTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.elevation = global::JustStatics.Droid.Resource.Attribute.elevation;
+			global::JustStatics.Droid.Shared.Resource.Attribute.errorEnabled = global::JustStatics.Droid.Resource.Attribute.errorEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.errorTextAppearance = global::JustStatics.Droid.Resource.Attribute.errorTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandActivityOverflowButtonDrawable = global::JustStatics.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expanded = global::JustStatics.Droid.Resource.Attribute.expanded;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleGravity = global::JustStatics.Droid.Resource.Attribute.expandedTitleGravity;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleMargin = global::JustStatics.Droid.Resource.Attribute.expandedTitleMargin;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleMarginBottom = global::JustStatics.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleMarginEnd = global::JustStatics.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleMarginStart = global::JustStatics.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleMarginTop = global::JustStatics.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::JustStatics.Droid.Shared.Resource.Attribute.expandedTitleTextAppearance = global::JustStatics.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.fabSize = global::JustStatics.Droid.Resource.Attribute.fabSize;
+			global::JustStatics.Droid.Shared.Resource.Attribute.foregroundInsidePadding = global::JustStatics.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.gapBetweenBars = global::JustStatics.Droid.Resource.Attribute.gapBetweenBars;
+			global::JustStatics.Droid.Shared.Resource.Attribute.goIcon = global::JustStatics.Droid.Resource.Attribute.goIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.headerLayout = global::JustStatics.Droid.Resource.Attribute.headerLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.height = global::JustStatics.Droid.Resource.Attribute.height;
+			global::JustStatics.Droid.Shared.Resource.Attribute.hideOnContentScroll = global::JustStatics.Droid.Resource.Attribute.hideOnContentScroll;
+			global::JustStatics.Droid.Shared.Resource.Attribute.hintAnimationEnabled = global::JustStatics.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.hintEnabled = global::JustStatics.Droid.Resource.Attribute.hintEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.hintTextAppearance = global::JustStatics.Droid.Resource.Attribute.hintTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.homeAsUpIndicator = global::JustStatics.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::JustStatics.Droid.Shared.Resource.Attribute.homeLayout = global::JustStatics.Droid.Resource.Attribute.homeLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.icon = global::JustStatics.Droid.Resource.Attribute.icon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.iconifiedByDefault = global::JustStatics.Droid.Resource.Attribute.iconifiedByDefault;
+			global::JustStatics.Droid.Shared.Resource.Attribute.imageButtonStyle = global::JustStatics.Droid.Resource.Attribute.imageButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.indeterminateProgressStyle = global::JustStatics.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.initialActivityCount = global::JustStatics.Droid.Resource.Attribute.initialActivityCount;
+			global::JustStatics.Droid.Shared.Resource.Attribute.insetForeground = global::JustStatics.Droid.Resource.Attribute.insetForeground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.isLightTheme = global::JustStatics.Droid.Resource.Attribute.isLightTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.itemBackground = global::JustStatics.Droid.Resource.Attribute.itemBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.itemIconTint = global::JustStatics.Droid.Resource.Attribute.itemIconTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.itemPadding = global::JustStatics.Droid.Resource.Attribute.itemPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.itemTextAppearance = global::JustStatics.Droid.Resource.Attribute.itemTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.itemTextColor = global::JustStatics.Droid.Resource.Attribute.itemTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.keylines = global::JustStatics.Droid.Resource.Attribute.keylines;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout = global::JustStatics.Droid.Resource.Attribute.layout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layoutManager = global::JustStatics.Droid.Resource.Attribute.layoutManager;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_anchor = global::JustStatics.Droid.Resource.Attribute.layout_anchor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_anchorGravity = global::JustStatics.Droid.Resource.Attribute.layout_anchorGravity;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_behavior = global::JustStatics.Droid.Resource.Attribute.layout_behavior;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_collapseMode = global::JustStatics.Droid.Resource.Attribute.layout_collapseMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_collapseParallaxMultiplier = global::JustStatics.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_dodgeInsetEdges = global::JustStatics.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_insetEdge = global::JustStatics.Droid.Resource.Attribute.layout_insetEdge;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_keyline = global::JustStatics.Droid.Resource.Attribute.layout_keyline;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_scrollFlags = global::JustStatics.Droid.Resource.Attribute.layout_scrollFlags;
+			global::JustStatics.Droid.Shared.Resource.Attribute.layout_scrollInterpolator = global::JustStatics.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listChoiceBackgroundIndicator = global::JustStatics.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listDividerAlertDialog = global::JustStatics.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listItemLayout = global::JustStatics.Droid.Resource.Attribute.listItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listLayout = global::JustStatics.Droid.Resource.Attribute.listLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listMenuViewStyle = global::JustStatics.Droid.Resource.Attribute.listMenuViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPopupWindowStyle = global::JustStatics.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPreferredItemHeight = global::JustStatics.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPreferredItemHeightLarge = global::JustStatics.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPreferredItemHeightSmall = global::JustStatics.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPreferredItemPaddingLeft = global::JustStatics.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::JustStatics.Droid.Shared.Resource.Attribute.listPreferredItemPaddingRight = global::JustStatics.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.logo = global::JustStatics.Droid.Resource.Attribute.logo;
+			global::JustStatics.Droid.Shared.Resource.Attribute.logoDescription = global::JustStatics.Droid.Resource.Attribute.logoDescription;
+			global::JustStatics.Droid.Shared.Resource.Attribute.maxActionInlineWidth = global::JustStatics.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.maxButtonHeight = global::JustStatics.Droid.Resource.Attribute.maxButtonHeight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.measureWithLargestChild = global::JustStatics.Droid.Resource.Attribute.measureWithLargestChild;
+			global::JustStatics.Droid.Shared.Resource.Attribute.menu = global::JustStatics.Droid.Resource.Attribute.menu;
+			global::JustStatics.Droid.Shared.Resource.Attribute.multiChoiceItemLayout = global::JustStatics.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.navigationContentDescription = global::JustStatics.Droid.Resource.Attribute.navigationContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Attribute.navigationIcon = global::JustStatics.Droid.Resource.Attribute.navigationIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.navigationMode = global::JustStatics.Droid.Resource.Attribute.navigationMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.overlapAnchor = global::JustStatics.Droid.Resource.Attribute.overlapAnchor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.paddingBottomNoButtons = global::JustStatics.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::JustStatics.Droid.Shared.Resource.Attribute.paddingEnd = global::JustStatics.Droid.Resource.Attribute.paddingEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.paddingStart = global::JustStatics.Droid.Resource.Attribute.paddingStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.paddingTopNoTitle = global::JustStatics.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.panelBackground = global::JustStatics.Droid.Resource.Attribute.panelBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.panelMenuListTheme = global::JustStatics.Droid.Resource.Attribute.panelMenuListTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.panelMenuListWidth = global::JustStatics.Droid.Resource.Attribute.panelMenuListWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.passwordToggleContentDescription = global::JustStatics.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Attribute.passwordToggleDrawable = global::JustStatics.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::JustStatics.Droid.Shared.Resource.Attribute.passwordToggleEnabled = global::JustStatics.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.passwordToggleTint = global::JustStatics.Droid.Resource.Attribute.passwordToggleTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.passwordToggleTintMode = global::JustStatics.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.popupMenuStyle = global::JustStatics.Droid.Resource.Attribute.popupMenuStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.popupTheme = global::JustStatics.Droid.Resource.Attribute.popupTheme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.popupWindowStyle = global::JustStatics.Droid.Resource.Attribute.popupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.preserveIconSpacing = global::JustStatics.Droid.Resource.Attribute.preserveIconSpacing;
+			global::JustStatics.Droid.Shared.Resource.Attribute.pressedTranslationZ = global::JustStatics.Droid.Resource.Attribute.pressedTranslationZ;
+			global::JustStatics.Droid.Shared.Resource.Attribute.progressBarPadding = global::JustStatics.Droid.Resource.Attribute.progressBarPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.progressBarStyle = global::JustStatics.Droid.Resource.Attribute.progressBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.queryBackground = global::JustStatics.Droid.Resource.Attribute.queryBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.queryHint = global::JustStatics.Droid.Resource.Attribute.queryHint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.radioButtonStyle = global::JustStatics.Droid.Resource.Attribute.radioButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.ratingBarStyle = global::JustStatics.Droid.Resource.Attribute.ratingBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.ratingBarStyleIndicator = global::JustStatics.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::JustStatics.Droid.Shared.Resource.Attribute.ratingBarStyleSmall = global::JustStatics.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::JustStatics.Droid.Shared.Resource.Attribute.reverseLayout = global::JustStatics.Droid.Resource.Attribute.reverseLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.rippleColor = global::JustStatics.Droid.Resource.Attribute.rippleColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.scrimAnimationDuration = global::JustStatics.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::JustStatics.Droid.Shared.Resource.Attribute.scrimVisibleHeightTrigger = global::JustStatics.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::JustStatics.Droid.Shared.Resource.Attribute.searchHintIcon = global::JustStatics.Droid.Resource.Attribute.searchHintIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.searchIcon = global::JustStatics.Droid.Resource.Attribute.searchIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.searchViewStyle = global::JustStatics.Droid.Resource.Attribute.searchViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.seekBarStyle = global::JustStatics.Droid.Resource.Attribute.seekBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.selectableItemBackground = global::JustStatics.Droid.Resource.Attribute.selectableItemBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.selectableItemBackgroundBorderless = global::JustStatics.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::JustStatics.Droid.Shared.Resource.Attribute.showAsAction = global::JustStatics.Droid.Resource.Attribute.showAsAction;
+			global::JustStatics.Droid.Shared.Resource.Attribute.showDividers = global::JustStatics.Droid.Resource.Attribute.showDividers;
+			global::JustStatics.Droid.Shared.Resource.Attribute.showText = global::JustStatics.Droid.Resource.Attribute.showText;
+			global::JustStatics.Droid.Shared.Resource.Attribute.showTitle = global::JustStatics.Droid.Resource.Attribute.showTitle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.singleChoiceItemLayout = global::JustStatics.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.spanCount = global::JustStatics.Droid.Resource.Attribute.spanCount;
+			global::JustStatics.Droid.Shared.Resource.Attribute.spinBars = global::JustStatics.Droid.Resource.Attribute.spinBars;
+			global::JustStatics.Droid.Shared.Resource.Attribute.spinnerDropDownItemStyle = global::JustStatics.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.spinnerStyle = global::JustStatics.Droid.Resource.Attribute.spinnerStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.splitTrack = global::JustStatics.Droid.Resource.Attribute.splitTrack;
+			global::JustStatics.Droid.Shared.Resource.Attribute.srcCompat = global::JustStatics.Droid.Resource.Attribute.srcCompat;
+			global::JustStatics.Droid.Shared.Resource.Attribute.stackFromEnd = global::JustStatics.Droid.Resource.Attribute.stackFromEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.state_above_anchor = global::JustStatics.Droid.Resource.Attribute.state_above_anchor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.state_collapsed = global::JustStatics.Droid.Resource.Attribute.state_collapsed;
+			global::JustStatics.Droid.Shared.Resource.Attribute.state_collapsible = global::JustStatics.Droid.Resource.Attribute.state_collapsible;
+			global::JustStatics.Droid.Shared.Resource.Attribute.statusBarBackground = global::JustStatics.Droid.Resource.Attribute.statusBarBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.statusBarScrim = global::JustStatics.Droid.Resource.Attribute.statusBarScrim;
+			global::JustStatics.Droid.Shared.Resource.Attribute.subMenuArrow = global::JustStatics.Droid.Resource.Attribute.subMenuArrow;
+			global::JustStatics.Droid.Shared.Resource.Attribute.submitBackground = global::JustStatics.Droid.Resource.Attribute.submitBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.subtitle = global::JustStatics.Droid.Resource.Attribute.subtitle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.subtitleTextAppearance = global::JustStatics.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.subtitleTextColor = global::JustStatics.Droid.Resource.Attribute.subtitleTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.subtitleTextStyle = global::JustStatics.Droid.Resource.Attribute.subtitleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.suggestionRowLayout = global::JustStatics.Droid.Resource.Attribute.suggestionRowLayout;
+			global::JustStatics.Droid.Shared.Resource.Attribute.switchMinWidth = global::JustStatics.Droid.Resource.Attribute.switchMinWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.switchPadding = global::JustStatics.Droid.Resource.Attribute.switchPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.switchStyle = global::JustStatics.Droid.Resource.Attribute.switchStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.switchTextAppearance = global::JustStatics.Droid.Resource.Attribute.switchTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabBackground = global::JustStatics.Droid.Resource.Attribute.tabBackground;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabContentStart = global::JustStatics.Droid.Resource.Attribute.tabContentStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabGravity = global::JustStatics.Droid.Resource.Attribute.tabGravity;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabIndicatorColor = global::JustStatics.Droid.Resource.Attribute.tabIndicatorColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabIndicatorHeight = global::JustStatics.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabMaxWidth = global::JustStatics.Droid.Resource.Attribute.tabMaxWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabMinWidth = global::JustStatics.Droid.Resource.Attribute.tabMinWidth;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabMode = global::JustStatics.Droid.Resource.Attribute.tabMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabPadding = global::JustStatics.Droid.Resource.Attribute.tabPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabPaddingBottom = global::JustStatics.Droid.Resource.Attribute.tabPaddingBottom;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabPaddingEnd = global::JustStatics.Droid.Resource.Attribute.tabPaddingEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabPaddingStart = global::JustStatics.Droid.Resource.Attribute.tabPaddingStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabPaddingTop = global::JustStatics.Droid.Resource.Attribute.tabPaddingTop;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabSelectedTextColor = global::JustStatics.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabTextAppearance = global::JustStatics.Droid.Resource.Attribute.tabTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tabTextColor = global::JustStatics.Droid.Resource.Attribute.tabTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAllCaps = global::JustStatics.Droid.Resource.Attribute.textAllCaps;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceLargePopupMenu = global::JustStatics.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceListItem = global::JustStatics.Droid.Resource.Attribute.textAppearanceListItem;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceListItemSecondary = global::JustStatics.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceListItemSmall = global::JustStatics.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearancePopupMenuHeader = global::JustStatics.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceSearchResultSubtitle = global::JustStatics.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceSearchResultTitle = global::JustStatics.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textAppearanceSmallPopupMenu = global::JustStatics.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textColorAlertDialogListItem = global::JustStatics.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textColorError = global::JustStatics.Droid.Resource.Attribute.textColorError;
+			global::JustStatics.Droid.Shared.Resource.Attribute.textColorSearchUrl = global::JustStatics.Droid.Resource.Attribute.textColorSearchUrl;
+			global::JustStatics.Droid.Shared.Resource.Attribute.theme = global::JustStatics.Droid.Resource.Attribute.theme;
+			global::JustStatics.Droid.Shared.Resource.Attribute.thickness = global::JustStatics.Droid.Resource.Attribute.thickness;
+			global::JustStatics.Droid.Shared.Resource.Attribute.thumbTextPadding = global::JustStatics.Droid.Resource.Attribute.thumbTextPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.thumbTint = global::JustStatics.Droid.Resource.Attribute.thumbTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.thumbTintMode = global::JustStatics.Droid.Resource.Attribute.thumbTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tickMark = global::JustStatics.Droid.Resource.Attribute.tickMark;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tickMarkTint = global::JustStatics.Droid.Resource.Attribute.tickMarkTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tickMarkTintMode = global::JustStatics.Droid.Resource.Attribute.tickMarkTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tint = global::JustStatics.Droid.Resource.Attribute.tint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.tintMode = global::JustStatics.Droid.Resource.Attribute.tintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.title = global::JustStatics.Droid.Resource.Attribute.title;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleEnabled = global::JustStatics.Droid.Resource.Attribute.titleEnabled;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMargin = global::JustStatics.Droid.Resource.Attribute.titleMargin;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMarginBottom = global::JustStatics.Droid.Resource.Attribute.titleMarginBottom;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMarginEnd = global::JustStatics.Droid.Resource.Attribute.titleMarginEnd;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMarginStart = global::JustStatics.Droid.Resource.Attribute.titleMarginStart;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMarginTop = global::JustStatics.Droid.Resource.Attribute.titleMarginTop;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleMargins = global::JustStatics.Droid.Resource.Attribute.titleMargins;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleTextAppearance = global::JustStatics.Droid.Resource.Attribute.titleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleTextColor = global::JustStatics.Droid.Resource.Attribute.titleTextColor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.titleTextStyle = global::JustStatics.Droid.Resource.Attribute.titleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.toolbarId = global::JustStatics.Droid.Resource.Attribute.toolbarId;
+			global::JustStatics.Droid.Shared.Resource.Attribute.toolbarNavigationButtonStyle = global::JustStatics.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.toolbarStyle = global::JustStatics.Droid.Resource.Attribute.toolbarStyle;
+			global::JustStatics.Droid.Shared.Resource.Attribute.track = global::JustStatics.Droid.Resource.Attribute.track;
+			global::JustStatics.Droid.Shared.Resource.Attribute.trackTint = global::JustStatics.Droid.Resource.Attribute.trackTint;
+			global::JustStatics.Droid.Shared.Resource.Attribute.trackTintMode = global::JustStatics.Droid.Resource.Attribute.trackTintMode;
+			global::JustStatics.Droid.Shared.Resource.Attribute.useCompatPadding = global::JustStatics.Droid.Resource.Attribute.useCompatPadding;
+			global::JustStatics.Droid.Shared.Resource.Attribute.voiceIcon = global::JustStatics.Droid.Resource.Attribute.voiceIcon;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowActionBar = global::JustStatics.Droid.Resource.Attribute.windowActionBar;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowActionBarOverlay = global::JustStatics.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowActionModeOverlay = global::JustStatics.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowFixedHeightMajor = global::JustStatics.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowFixedHeightMinor = global::JustStatics.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowFixedWidthMajor = global::JustStatics.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowFixedWidthMinor = global::JustStatics.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowMinWidthMajor = global::JustStatics.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowMinWidthMinor = global::JustStatics.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::JustStatics.Droid.Shared.Resource.Attribute.windowNoTitle = global::JustStatics.Droid.Resource.Attribute.windowNoTitle;
+			global::JustStatics.Droid.Shared.Resource.Boolean.abc_action_bar_embed_tabs = global::JustStatics.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::JustStatics.Droid.Shared.Resource.Boolean.abc_allow_stacked_button_bar = global::JustStatics.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::JustStatics.Droid.Shared.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::JustStatics.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::JustStatics.Droid.Shared.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::JustStatics.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::JustStatics.Droid.Shared.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::JustStatics.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_background_cache_hint_selector_material_dark = global::JustStatics.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_background_cache_hint_selector_material_light = global::JustStatics.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_btn_colored_borderless_text_material = global::JustStatics.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_btn_colored_text_material = global::JustStatics.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_color_highlight_material = global::JustStatics.Droid.Resource.Color.abc_color_highlight_material;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_hint_foreground_material_dark = global::JustStatics.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_hint_foreground_material_light = global::JustStatics.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_input_method_navigation_guard = global::JustStatics.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_primary_text_disable_only_material_dark = global::JustStatics.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_primary_text_disable_only_material_light = global::JustStatics.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_primary_text_material_dark = global::JustStatics.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_primary_text_material_light = global::JustStatics.Droid.Resource.Color.abc_primary_text_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_search_url_text = global::JustStatics.Droid.Resource.Color.abc_search_url_text;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_search_url_text_normal = global::JustStatics.Droid.Resource.Color.abc_search_url_text_normal;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_search_url_text_pressed = global::JustStatics.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_search_url_text_selected = global::JustStatics.Droid.Resource.Color.abc_search_url_text_selected;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_secondary_text_material_dark = global::JustStatics.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_secondary_text_material_light = global::JustStatics.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_btn_checkable = global::JustStatics.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_default = global::JustStatics.Droid.Resource.Color.abc_tint_default;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_edittext = global::JustStatics.Droid.Resource.Color.abc_tint_edittext;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_seek_thumb = global::JustStatics.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_spinner = global::JustStatics.Droid.Resource.Color.abc_tint_spinner;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_switch_thumb = global::JustStatics.Droid.Resource.Color.abc_tint_switch_thumb;
+			global::JustStatics.Droid.Shared.Resource.Color.abc_tint_switch_track = global::JustStatics.Droid.Resource.Color.abc_tint_switch_track;
+			global::JustStatics.Droid.Shared.Resource.Color.accent_material_dark = global::JustStatics.Droid.Resource.Color.accent_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.accent_material_light = global::JustStatics.Droid.Resource.Color.accent_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.background_floating_material_dark = global::JustStatics.Droid.Resource.Color.background_floating_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.background_floating_material_light = global::JustStatics.Droid.Resource.Color.background_floating_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.background_material_dark = global::JustStatics.Droid.Resource.Color.background_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.background_material_light = global::JustStatics.Droid.Resource.Color.background_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_disabled_material_dark = global::JustStatics.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_disabled_material_light = global::JustStatics.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_inverse_material_dark = global::JustStatics.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_inverse_material_light = global::JustStatics.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_material_dark = global::JustStatics.Droid.Resource.Color.bright_foreground_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.bright_foreground_material_light = global::JustStatics.Droid.Resource.Color.bright_foreground_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.button_material_dark = global::JustStatics.Droid.Resource.Color.button_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.button_material_light = global::JustStatics.Droid.Resource.Color.button_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.design_bottom_navigation_shadow_color = global::JustStatics.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_error = global::JustStatics.Droid.Resource.Color.design_error;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_shadow_end_color = global::JustStatics.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_shadow_mid_color = global::JustStatics.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_shadow_start_color = global::JustStatics.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_stroke_end_inner_color = global::JustStatics.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_stroke_end_outer_color = global::JustStatics.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_stroke_top_inner_color = global::JustStatics.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_fab_stroke_top_outer_color = global::JustStatics.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_snackbar_background_color = global::JustStatics.Droid.Resource.Color.design_snackbar_background_color;
+			global::JustStatics.Droid.Shared.Resource.Color.design_textinput_error_color_dark = global::JustStatics.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.design_textinput_error_color_light = global::JustStatics.Droid.Resource.Color.design_textinput_error_color_light;
+			global::JustStatics.Droid.Shared.Resource.Color.design_tint_password_toggle = global::JustStatics.Droid.Resource.Color.design_tint_password_toggle;
+			global::JustStatics.Droid.Shared.Resource.Color.dim_foreground_disabled_material_dark = global::JustStatics.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.dim_foreground_disabled_material_light = global::JustStatics.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.dim_foreground_material_dark = global::JustStatics.Droid.Resource.Color.dim_foreground_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.dim_foreground_material_light = global::JustStatics.Droid.Resource.Color.dim_foreground_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.foreground_material_dark = global::JustStatics.Droid.Resource.Color.foreground_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.foreground_material_light = global::JustStatics.Droid.Resource.Color.foreground_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.highlighted_text_material_dark = global::JustStatics.Droid.Resource.Color.highlighted_text_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.highlighted_text_material_light = global::JustStatics.Droid.Resource.Color.highlighted_text_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.material_blue_grey_800 = global::JustStatics.Droid.Resource.Color.material_blue_grey_800;
+			global::JustStatics.Droid.Shared.Resource.Color.material_blue_grey_900 = global::JustStatics.Droid.Resource.Color.material_blue_grey_900;
+			global::JustStatics.Droid.Shared.Resource.Color.material_blue_grey_950 = global::JustStatics.Droid.Resource.Color.material_blue_grey_950;
+			global::JustStatics.Droid.Shared.Resource.Color.material_deep_teal_200 = global::JustStatics.Droid.Resource.Color.material_deep_teal_200;
+			global::JustStatics.Droid.Shared.Resource.Color.material_deep_teal_500 = global::JustStatics.Droid.Resource.Color.material_deep_teal_500;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_100 = global::JustStatics.Droid.Resource.Color.material_grey_100;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_300 = global::JustStatics.Droid.Resource.Color.material_grey_300;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_50 = global::JustStatics.Droid.Resource.Color.material_grey_50;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_600 = global::JustStatics.Droid.Resource.Color.material_grey_600;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_800 = global::JustStatics.Droid.Resource.Color.material_grey_800;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_850 = global::JustStatics.Droid.Resource.Color.material_grey_850;
+			global::JustStatics.Droid.Shared.Resource.Color.material_grey_900 = global::JustStatics.Droid.Resource.Color.material_grey_900;
+			global::JustStatics.Droid.Shared.Resource.Color.notification_action_color_filter = global::JustStatics.Droid.Resource.Color.notification_action_color_filter;
+			global::JustStatics.Droid.Shared.Resource.Color.notification_icon_bg_color = global::JustStatics.Droid.Resource.Color.notification_icon_bg_color;
+			global::JustStatics.Droid.Shared.Resource.Color.notification_material_background_media_default_color = global::JustStatics.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_dark_material_dark = global::JustStatics.Droid.Resource.Color.primary_dark_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_dark_material_light = global::JustStatics.Droid.Resource.Color.primary_dark_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_material_dark = global::JustStatics.Droid.Resource.Color.primary_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_material_light = global::JustStatics.Droid.Resource.Color.primary_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_text_default_material_dark = global::JustStatics.Droid.Resource.Color.primary_text_default_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_text_default_material_light = global::JustStatics.Droid.Resource.Color.primary_text_default_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_text_disabled_material_dark = global::JustStatics.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.primary_text_disabled_material_light = global::JustStatics.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.ripple_material_dark = global::JustStatics.Droid.Resource.Color.ripple_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.ripple_material_light = global::JustStatics.Droid.Resource.Color.ripple_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.secondary_text_default_material_dark = global::JustStatics.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.secondary_text_default_material_light = global::JustStatics.Droid.Resource.Color.secondary_text_default_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.secondary_text_disabled_material_dark = global::JustStatics.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.secondary_text_disabled_material_light = global::JustStatics.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_disabled_material_dark = global::JustStatics.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_disabled_material_light = global::JustStatics.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_material_dark = global::JustStatics.Droid.Resource.Color.switch_thumb_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_material_light = global::JustStatics.Droid.Resource.Color.switch_thumb_material_light;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_normal_material_dark = global::JustStatics.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Color.switch_thumb_normal_material_light = global::JustStatics.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_content_inset_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_default_height_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_default_padding_end_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_default_padding_start_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_elevation_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_progress_bar_size = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_stacked_max_height = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::JustStatics.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_button_min_height_material = global::JustStatics.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_button_min_width_material = global::JustStatics.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_action_button_min_width_overflow_material = global::JustStatics.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_alert_dialog_button_bar_height = global::JustStatics.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_button_inset_horizontal_material = global::JustStatics.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_button_inset_vertical_material = global::JustStatics.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_button_padding_horizontal_material = global::JustStatics.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_button_padding_vertical_material = global::JustStatics.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::JustStatics.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_config_prefDialogWidth = global::JustStatics.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_control_corner_material = global::JustStatics.Droid.Resource.Dimension.abc_control_corner_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_control_inset_material = global::JustStatics.Droid.Resource.Dimension.abc_control_inset_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_control_padding_material = global::JustStatics.Droid.Resource.Dimension.abc_control_padding_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_fixed_height_major = global::JustStatics.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_fixed_height_minor = global::JustStatics.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_fixed_width_major = global::JustStatics.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_fixed_width_minor = global::JustStatics.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::JustStatics.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::JustStatics.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_min_width_major = global::JustStatics.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_min_width_minor = global::JustStatics.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_padding_material = global::JustStatics.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_padding_top_material = global::JustStatics.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dialog_title_divider_material = global::JustStatics.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_disabled_alpha_material_dark = global::JustStatics.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_disabled_alpha_material_light = global::JustStatics.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dropdownitem_icon_width = global::JustStatics.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dropdownitem_text_padding_left = global::JustStatics.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_dropdownitem_text_padding_right = global::JustStatics.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_edit_text_inset_bottom_material = global::JustStatics.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::JustStatics.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_edit_text_inset_top_material = global::JustStatics.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_floating_window_z = global::JustStatics.Droid.Resource.Dimension.abc_floating_window_z;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_list_item_padding_horizontal_material = global::JustStatics.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_panel_menu_list_width = global::JustStatics.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_progress_bar_height_material = global::JustStatics.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_search_view_preferred_height = global::JustStatics.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_search_view_preferred_width = global::JustStatics.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_seekbar_track_background_height_material = global::JustStatics.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_seekbar_track_progress_height_material = global::JustStatics.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_select_dialog_padding_start_material = global::JustStatics.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_switch_padding = global::JustStatics.Droid.Resource.Dimension.abc_switch_padding;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_body_1_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_body_2_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_button_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_caption_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_display_1_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_display_2_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_display_3_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_display_4_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_headline_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_large_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_medium_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_menu_header_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_menu_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_small_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_subhead_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::JustStatics.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_title_material = global::JustStatics.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::JustStatics.Droid.Shared.Resource.Dimension.abc_text_size_title_material_toolbar = global::JustStatics.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_appbar_elevation = global::JustStatics.Droid.Resource.Dimension.design_appbar_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_active_text_size = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_elevation = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_height = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_item_max_width = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_item_min_width = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_margin = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_shadow_height = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_navigation_text_size = global::JustStatics.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_sheet_modal_elevation = global::JustStatics.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_bottom_sheet_peek_height_min = global::JustStatics.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_border_width = global::JustStatics.Droid.Resource.Dimension.design_fab_border_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_elevation = global::JustStatics.Droid.Resource.Dimension.design_fab_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_image_size = global::JustStatics.Droid.Resource.Dimension.design_fab_image_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_size_mini = global::JustStatics.Droid.Resource.Dimension.design_fab_size_mini;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_size_normal = global::JustStatics.Droid.Resource.Dimension.design_fab_size_normal;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_fab_translation_z_pressed = global::JustStatics.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_elevation = global::JustStatics.Droid.Resource.Dimension.design_navigation_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_icon_padding = global::JustStatics.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_icon_size = global::JustStatics.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_max_width = global::JustStatics.Droid.Resource.Dimension.design_navigation_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_padding_bottom = global::JustStatics.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_navigation_separator_vertical_padding = global::JustStatics.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_action_inline_max_width = global::JustStatics.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_background_corner_radius = global::JustStatics.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_elevation = global::JustStatics.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::JustStatics.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_max_width = global::JustStatics.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_min_width = global::JustStatics.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_padding_horizontal = global::JustStatics.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_padding_vertical = global::JustStatics.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::JustStatics.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_snackbar_text_size = global::JustStatics.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_tab_max_width = global::JustStatics.Droid.Resource.Dimension.design_tab_max_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_tab_scrollable_min_width = global::JustStatics.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_tab_text_size = global::JustStatics.Droid.Resource.Dimension.design_tab_text_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.design_tab_text_size_2line = global::JustStatics.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::JustStatics.Droid.Shared.Resource.Dimension.disabled_alpha_material_dark = global::JustStatics.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Dimension.disabled_alpha_material_light = global::JustStatics.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.highlight_alpha_material_colored = global::JustStatics.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::JustStatics.Droid.Shared.Resource.Dimension.highlight_alpha_material_dark = global::JustStatics.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Dimension.highlight_alpha_material_light = global::JustStatics.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.hint_alpha_material_dark = global::JustStatics.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Dimension.hint_alpha_material_light = global::JustStatics.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.hint_pressed_alpha_material_dark = global::JustStatics.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::JustStatics.Droid.Shared.Resource.Dimension.hint_pressed_alpha_material_light = global::JustStatics.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::JustStatics.Droid.Shared.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::JustStatics.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::JustStatics.Droid.Shared.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::JustStatics.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::JustStatics.Droid.Shared.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::JustStatics.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_action_icon_size = global::JustStatics.Droid.Resource.Dimension.notification_action_icon_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_action_text_size = global::JustStatics.Droid.Resource.Dimension.notification_action_text_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_big_circle_margin = global::JustStatics.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_content_margin_start = global::JustStatics.Droid.Resource.Dimension.notification_content_margin_start;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_large_icon_height = global::JustStatics.Droid.Resource.Dimension.notification_large_icon_height;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_large_icon_width = global::JustStatics.Droid.Resource.Dimension.notification_large_icon_width;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_main_column_padding_top = global::JustStatics.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_media_narrow_margin = global::JustStatics.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_right_icon_size = global::JustStatics.Droid.Resource.Dimension.notification_right_icon_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_right_side_padding_top = global::JustStatics.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_small_icon_background_padding = global::JustStatics.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_small_icon_size_as_large = global::JustStatics.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_subtext_size = global::JustStatics.Droid.Resource.Dimension.notification_subtext_size;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_top_pad = global::JustStatics.Droid.Resource.Dimension.notification_top_pad;
+			global::JustStatics.Droid.Shared.Resource.Dimension.notification_top_pad_large_text = global::JustStatics.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_action_bar_item_background_material = global::JustStatics.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_borderless_material = global::JustStatics.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_check_material = global::JustStatics.Droid.Resource.Drawable.abc_btn_check_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::JustStatics.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::JustStatics.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_colored_material = global::JustStatics.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_default_mtrl_shape = global::JustStatics.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_radio_material = global::JustStatics.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::JustStatics.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::JustStatics.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::JustStatics.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::JustStatics.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_cab_background_internal_bg = global::JustStatics.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_cab_background_top_material = global::JustStatics.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_control_background_material = global::JustStatics.Droid.Resource.Drawable.abc_control_background_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_dialog_material_background = global::JustStatics.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_edit_text_material = global::JustStatics.Droid.Resource.Drawable.abc_edit_text_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_ab_back_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_clear_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_go_search_api_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_overflow_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_search_api_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_black_16dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_black_36dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_black_48dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_half_black_16dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_half_black_36dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_star_half_black_48dp = global::JustStatics.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ic_voice_search_api_material = global::JustStatics.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_item_background_holo_dark = global::JustStatics.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_item_background_holo_light = global::JustStatics.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_divider_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_focused_holo = global::JustStatics.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_longpressed_holo = global::JustStatics.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_pressed_holo_dark = global::JustStatics.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_pressed_holo_light = global::JustStatics.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_disabled_holo_light = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_holo_dark = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_list_selector_holo_light = global::JustStatics.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::JustStatics.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_popup_background_mtrl_mult = global::JustStatics.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ratingbar_indicator_material = global::JustStatics.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ratingbar_material = global::JustStatics.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_ratingbar_small_material = global::JustStatics.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::JustStatics.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::JustStatics.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_seekbar_thumb_material = global::JustStatics.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_seekbar_tick_mark_material = global::JustStatics.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_seekbar_track_material = global::JustStatics.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::JustStatics.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_spinner_textfield_background_material = global::JustStatics.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_switch_thumb_material = global::JustStatics.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_switch_track_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_tab_indicator_material = global::JustStatics.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_cursor_material = global::JustStatics.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::JustStatics.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::JustStatics.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_textfield_search_material = global::JustStatics.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::JustStatics.Droid.Shared.Resource.Drawable.abc_vector_test = global::JustStatics.Droid.Resource.Drawable.abc_vector_test;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_hide_password = global::JustStatics.Droid.Resource.Drawable.avd_hide_password;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_hide_password_1 = global::JustStatics.Droid.Resource.Drawable.avd_hide_password_1;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_hide_password_2 = global::JustStatics.Droid.Resource.Drawable.avd_hide_password_2;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_hide_password_3 = global::JustStatics.Droid.Resource.Drawable.avd_hide_password_3;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_show_password = global::JustStatics.Droid.Resource.Drawable.avd_show_password;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_show_password_1 = global::JustStatics.Droid.Resource.Drawable.avd_show_password_1;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_show_password_2 = global::JustStatics.Droid.Resource.Drawable.avd_show_password_2;
+			global::JustStatics.Droid.Shared.Resource.Drawable.avd_show_password_3 = global::JustStatics.Droid.Resource.Drawable.avd_show_password_3;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_bottom_navigation_item_background = global::JustStatics.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_fab_background = global::JustStatics.Droid.Resource.Drawable.design_fab_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_ic_visibility = global::JustStatics.Droid.Resource.Drawable.design_ic_visibility;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_ic_visibility_off = global::JustStatics.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_password_eye = global::JustStatics.Droid.Resource.Drawable.design_password_eye;
+			global::JustStatics.Droid.Shared.Resource.Drawable.design_snackbar_background = global::JustStatics.Droid.Resource.Drawable.design_snackbar_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.navigation_empty_icon = global::JustStatics.Droid.Resource.Drawable.navigation_empty_icon;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_action_background = global::JustStatics.Droid.Resource.Drawable.notification_action_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg = global::JustStatics.Droid.Resource.Drawable.notification_bg;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg_low = global::JustStatics.Droid.Resource.Drawable.notification_bg_low;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg_low_normal = global::JustStatics.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg_low_pressed = global::JustStatics.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg_normal = global::JustStatics.Droid.Resource.Drawable.notification_bg_normal;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_bg_normal_pressed = global::JustStatics.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_icon_background = global::JustStatics.Droid.Resource.Drawable.notification_icon_background;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_template_icon_bg = global::JustStatics.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_template_icon_low_bg = global::JustStatics.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notification_tile_bg = global::JustStatics.Droid.Resource.Drawable.notification_tile_bg;
+			global::JustStatics.Droid.Shared.Resource.Drawable.notify_panel_notification_icon_bg = global::JustStatics.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::JustStatics.Droid.Shared.Resource.Id.action0 = global::JustStatics.Droid.Resource.Id.action0;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar = global::JustStatics.Droid.Resource.Id.action_bar;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_activity_content = global::JustStatics.Droid.Resource.Id.action_bar_activity_content;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_container = global::JustStatics.Droid.Resource.Id.action_bar_container;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_root = global::JustStatics.Droid.Resource.Id.action_bar_root;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_spinner = global::JustStatics.Droid.Resource.Id.action_bar_spinner;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_subtitle = global::JustStatics.Droid.Resource.Id.action_bar_subtitle;
+			global::JustStatics.Droid.Shared.Resource.Id.action_bar_title = global::JustStatics.Droid.Resource.Id.action_bar_title;
+			global::JustStatics.Droid.Shared.Resource.Id.action_container = global::JustStatics.Droid.Resource.Id.action_container;
+			global::JustStatics.Droid.Shared.Resource.Id.action_context_bar = global::JustStatics.Droid.Resource.Id.action_context_bar;
+			global::JustStatics.Droid.Shared.Resource.Id.action_divider = global::JustStatics.Droid.Resource.Id.action_divider;
+			global::JustStatics.Droid.Shared.Resource.Id.action_image = global::JustStatics.Droid.Resource.Id.action_image;
+			global::JustStatics.Droid.Shared.Resource.Id.action_menu_divider = global::JustStatics.Droid.Resource.Id.action_menu_divider;
+			global::JustStatics.Droid.Shared.Resource.Id.action_menu_presenter = global::JustStatics.Droid.Resource.Id.action_menu_presenter;
+			global::JustStatics.Droid.Shared.Resource.Id.action_mode_bar = global::JustStatics.Droid.Resource.Id.action_mode_bar;
+			global::JustStatics.Droid.Shared.Resource.Id.action_mode_bar_stub = global::JustStatics.Droid.Resource.Id.action_mode_bar_stub;
+			global::JustStatics.Droid.Shared.Resource.Id.action_mode_close_button = global::JustStatics.Droid.Resource.Id.action_mode_close_button;
+			global::JustStatics.Droid.Shared.Resource.Id.action_text = global::JustStatics.Droid.Resource.Id.action_text;
+			global::JustStatics.Droid.Shared.Resource.Id.actions = global::JustStatics.Droid.Resource.Id.actions;
+			global::JustStatics.Droid.Shared.Resource.Id.activity_chooser_view_content = global::JustStatics.Droid.Resource.Id.activity_chooser_view_content;
+			global::JustStatics.Droid.Shared.Resource.Id.add = global::JustStatics.Droid.Resource.Id.add;
+			global::JustStatics.Droid.Shared.Resource.Id.alertTitle = global::JustStatics.Droid.Resource.Id.alertTitle;
+			global::JustStatics.Droid.Shared.Resource.Id.all = global::JustStatics.Droid.Resource.Id.all;
+			global::JustStatics.Droid.Shared.Resource.Id.always = global::JustStatics.Droid.Resource.Id.always;
+			global::JustStatics.Droid.Shared.Resource.Id.auto = global::JustStatics.Droid.Resource.Id.auto;
+			global::JustStatics.Droid.Shared.Resource.Id.beginning = global::JustStatics.Droid.Resource.Id.beginning;
+			global::JustStatics.Droid.Shared.Resource.Id.bottom = global::JustStatics.Droid.Resource.Id.bottom;
+			global::JustStatics.Droid.Shared.Resource.Id.buttonPanel = global::JustStatics.Droid.Resource.Id.buttonPanel;
+			global::JustStatics.Droid.Shared.Resource.Id.cancel_action = global::JustStatics.Droid.Resource.Id.cancel_action;
+			global::JustStatics.Droid.Shared.Resource.Id.center = global::JustStatics.Droid.Resource.Id.center;
+			global::JustStatics.Droid.Shared.Resource.Id.center_horizontal = global::JustStatics.Droid.Resource.Id.center_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Id.center_vertical = global::JustStatics.Droid.Resource.Id.center_vertical;
+			global::JustStatics.Droid.Shared.Resource.Id.checkbox = global::JustStatics.Droid.Resource.Id.checkbox;
+			global::JustStatics.Droid.Shared.Resource.Id.chronometer = global::JustStatics.Droid.Resource.Id.chronometer;
+			global::JustStatics.Droid.Shared.Resource.Id.clip_horizontal = global::JustStatics.Droid.Resource.Id.clip_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Id.clip_vertical = global::JustStatics.Droid.Resource.Id.clip_vertical;
+			global::JustStatics.Droid.Shared.Resource.Id.collapseActionView = global::JustStatics.Droid.Resource.Id.collapseActionView;
+			global::JustStatics.Droid.Shared.Resource.Id.container = global::JustStatics.Droid.Resource.Id.container;
+			global::JustStatics.Droid.Shared.Resource.Id.contentPanel = global::JustStatics.Droid.Resource.Id.contentPanel;
+			global::JustStatics.Droid.Shared.Resource.Id.coordinator = global::JustStatics.Droid.Resource.Id.coordinator;
+			global::JustStatics.Droid.Shared.Resource.Id.custom = global::JustStatics.Droid.Resource.Id.custom;
+			global::JustStatics.Droid.Shared.Resource.Id.customPanel = global::JustStatics.Droid.Resource.Id.customPanel;
+			global::JustStatics.Droid.Shared.Resource.Id.decor_content_parent = global::JustStatics.Droid.Resource.Id.decor_content_parent;
+			global::JustStatics.Droid.Shared.Resource.Id.default_activity_button = global::JustStatics.Droid.Resource.Id.default_activity_button;
+			global::JustStatics.Droid.Shared.Resource.Id.design_bottom_sheet = global::JustStatics.Droid.Resource.Id.design_bottom_sheet;
+			global::JustStatics.Droid.Shared.Resource.Id.design_menu_item_action_area = global::JustStatics.Droid.Resource.Id.design_menu_item_action_area;
+			global::JustStatics.Droid.Shared.Resource.Id.design_menu_item_action_area_stub = global::JustStatics.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::JustStatics.Droid.Shared.Resource.Id.design_menu_item_text = global::JustStatics.Droid.Resource.Id.design_menu_item_text;
+			global::JustStatics.Droid.Shared.Resource.Id.design_navigation_view = global::JustStatics.Droid.Resource.Id.design_navigation_view;
+			global::JustStatics.Droid.Shared.Resource.Id.disableHome = global::JustStatics.Droid.Resource.Id.disableHome;
+			global::JustStatics.Droid.Shared.Resource.Id.edit_query = global::JustStatics.Droid.Resource.Id.edit_query;
+			global::JustStatics.Droid.Shared.Resource.Id.end = global::JustStatics.Droid.Resource.Id.end;
+			global::JustStatics.Droid.Shared.Resource.Id.end_padder = global::JustStatics.Droid.Resource.Id.end_padder;
+			global::JustStatics.Droid.Shared.Resource.Id.enterAlways = global::JustStatics.Droid.Resource.Id.enterAlways;
+			global::JustStatics.Droid.Shared.Resource.Id.enterAlwaysCollapsed = global::JustStatics.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::JustStatics.Droid.Shared.Resource.Id.exitUntilCollapsed = global::JustStatics.Droid.Resource.Id.exitUntilCollapsed;
+			global::JustStatics.Droid.Shared.Resource.Id.expand_activities_button = global::JustStatics.Droid.Resource.Id.expand_activities_button;
+			global::JustStatics.Droid.Shared.Resource.Id.expanded_menu = global::JustStatics.Droid.Resource.Id.expanded_menu;
+			global::JustStatics.Droid.Shared.Resource.Id.fill = global::JustStatics.Droid.Resource.Id.fill;
+			global::JustStatics.Droid.Shared.Resource.Id.fill_horizontal = global::JustStatics.Droid.Resource.Id.fill_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Id.fill_vertical = global::JustStatics.Droid.Resource.Id.fill_vertical;
+			global::JustStatics.Droid.Shared.Resource.Id.@fixed = global::JustStatics.Droid.Resource.Id.@fixed;
+			global::JustStatics.Droid.Shared.Resource.Id.home = global::JustStatics.Droid.Resource.Id.home;
+			global::JustStatics.Droid.Shared.Resource.Id.homeAsUp = global::JustStatics.Droid.Resource.Id.homeAsUp;
+			global::JustStatics.Droid.Shared.Resource.Id.icon = global::JustStatics.Droid.Resource.Id.icon;
+			global::JustStatics.Droid.Shared.Resource.Id.icon_group = global::JustStatics.Droid.Resource.Id.icon_group;
+			global::JustStatics.Droid.Shared.Resource.Id.ifRoom = global::JustStatics.Droid.Resource.Id.ifRoom;
+			global::JustStatics.Droid.Shared.Resource.Id.image = global::JustStatics.Droid.Resource.Id.image;
+			global::JustStatics.Droid.Shared.Resource.Id.info = global::JustStatics.Droid.Resource.Id.info;
+			global::JustStatics.Droid.Shared.Resource.Id.item_touch_helper_previous_elevation = global::JustStatics.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::JustStatics.Droid.Shared.Resource.Id.largeLabel = global::JustStatics.Droid.Resource.Id.largeLabel;
+			global::JustStatics.Droid.Shared.Resource.Id.left = global::JustStatics.Droid.Resource.Id.left;
+			global::JustStatics.Droid.Shared.Resource.Id.line1 = global::JustStatics.Droid.Resource.Id.line1;
+			global::JustStatics.Droid.Shared.Resource.Id.line3 = global::JustStatics.Droid.Resource.Id.line3;
+			global::JustStatics.Droid.Shared.Resource.Id.listMode = global::JustStatics.Droid.Resource.Id.listMode;
+			global::JustStatics.Droid.Shared.Resource.Id.list_item = global::JustStatics.Droid.Resource.Id.list_item;
+			global::JustStatics.Droid.Shared.Resource.Id.masked = global::JustStatics.Droid.Resource.Id.masked;
+			global::JustStatics.Droid.Shared.Resource.Id.media_actions = global::JustStatics.Droid.Resource.Id.media_actions;
+			global::JustStatics.Droid.Shared.Resource.Id.middle = global::JustStatics.Droid.Resource.Id.middle;
+			global::JustStatics.Droid.Shared.Resource.Id.mini = global::JustStatics.Droid.Resource.Id.mini;
+			global::JustStatics.Droid.Shared.Resource.Id.multiply = global::JustStatics.Droid.Resource.Id.multiply;
+			global::JustStatics.Droid.Shared.Resource.Id.navigation_header_container = global::JustStatics.Droid.Resource.Id.navigation_header_container;
+			global::JustStatics.Droid.Shared.Resource.Id.never = global::JustStatics.Droid.Resource.Id.never;
+			global::JustStatics.Droid.Shared.Resource.Id.none = global::JustStatics.Droid.Resource.Id.none;
+			global::JustStatics.Droid.Shared.Resource.Id.normal = global::JustStatics.Droid.Resource.Id.normal;
+			global::JustStatics.Droid.Shared.Resource.Id.notification_background = global::JustStatics.Droid.Resource.Id.notification_background;
+			global::JustStatics.Droid.Shared.Resource.Id.notification_main_column = global::JustStatics.Droid.Resource.Id.notification_main_column;
+			global::JustStatics.Droid.Shared.Resource.Id.notification_main_column_container = global::JustStatics.Droid.Resource.Id.notification_main_column_container;
+			global::JustStatics.Droid.Shared.Resource.Id.parallax = global::JustStatics.Droid.Resource.Id.parallax;
+			global::JustStatics.Droid.Shared.Resource.Id.parentPanel = global::JustStatics.Droid.Resource.Id.parentPanel;
+			global::JustStatics.Droid.Shared.Resource.Id.pin = global::JustStatics.Droid.Resource.Id.pin;
+			global::JustStatics.Droid.Shared.Resource.Id.progress_circular = global::JustStatics.Droid.Resource.Id.progress_circular;
+			global::JustStatics.Droid.Shared.Resource.Id.progress_horizontal = global::JustStatics.Droid.Resource.Id.progress_horizontal;
+			global::JustStatics.Droid.Shared.Resource.Id.radio = global::JustStatics.Droid.Resource.Id.radio;
+			global::JustStatics.Droid.Shared.Resource.Id.right = global::JustStatics.Droid.Resource.Id.right;
+			global::JustStatics.Droid.Shared.Resource.Id.right_icon = global::JustStatics.Droid.Resource.Id.right_icon;
+			global::JustStatics.Droid.Shared.Resource.Id.right_side = global::JustStatics.Droid.Resource.Id.right_side;
+			global::JustStatics.Droid.Shared.Resource.Id.screen = global::JustStatics.Droid.Resource.Id.screen;
+			global::JustStatics.Droid.Shared.Resource.Id.scroll = global::JustStatics.Droid.Resource.Id.scroll;
+			global::JustStatics.Droid.Shared.Resource.Id.scrollIndicatorDown = global::JustStatics.Droid.Resource.Id.scrollIndicatorDown;
+			global::JustStatics.Droid.Shared.Resource.Id.scrollIndicatorUp = global::JustStatics.Droid.Resource.Id.scrollIndicatorUp;
+			global::JustStatics.Droid.Shared.Resource.Id.scrollView = global::JustStatics.Droid.Resource.Id.scrollView;
+			global::JustStatics.Droid.Shared.Resource.Id.scrollable = global::JustStatics.Droid.Resource.Id.scrollable;
+			global::JustStatics.Droid.Shared.Resource.Id.search_badge = global::JustStatics.Droid.Resource.Id.search_badge;
+			global::JustStatics.Droid.Shared.Resource.Id.search_bar = global::JustStatics.Droid.Resource.Id.search_bar;
+			global::JustStatics.Droid.Shared.Resource.Id.search_button = global::JustStatics.Droid.Resource.Id.search_button;
+			global::JustStatics.Droid.Shared.Resource.Id.search_close_btn = global::JustStatics.Droid.Resource.Id.search_close_btn;
+			global::JustStatics.Droid.Shared.Resource.Id.search_edit_frame = global::JustStatics.Droid.Resource.Id.search_edit_frame;
+			global::JustStatics.Droid.Shared.Resource.Id.search_go_btn = global::JustStatics.Droid.Resource.Id.search_go_btn;
+			global::JustStatics.Droid.Shared.Resource.Id.search_mag_icon = global::JustStatics.Droid.Resource.Id.search_mag_icon;
+			global::JustStatics.Droid.Shared.Resource.Id.search_plate = global::JustStatics.Droid.Resource.Id.search_plate;
+			global::JustStatics.Droid.Shared.Resource.Id.search_src_text = global::JustStatics.Droid.Resource.Id.search_src_text;
+			global::JustStatics.Droid.Shared.Resource.Id.search_voice_btn = global::JustStatics.Droid.Resource.Id.search_voice_btn;
+			global::JustStatics.Droid.Shared.Resource.Id.select_dialog_listview = global::JustStatics.Droid.Resource.Id.select_dialog_listview;
+			global::JustStatics.Droid.Shared.Resource.Id.shortcut = global::JustStatics.Droid.Resource.Id.shortcut;
+			global::JustStatics.Droid.Shared.Resource.Id.showCustom = global::JustStatics.Droid.Resource.Id.showCustom;
+			global::JustStatics.Droid.Shared.Resource.Id.showHome = global::JustStatics.Droid.Resource.Id.showHome;
+			global::JustStatics.Droid.Shared.Resource.Id.showTitle = global::JustStatics.Droid.Resource.Id.showTitle;
+			global::JustStatics.Droid.Shared.Resource.Id.smallLabel = global::JustStatics.Droid.Resource.Id.smallLabel;
+			global::JustStatics.Droid.Shared.Resource.Id.snackbar_action = global::JustStatics.Droid.Resource.Id.snackbar_action;
+			global::JustStatics.Droid.Shared.Resource.Id.snackbar_text = global::JustStatics.Droid.Resource.Id.snackbar_text;
+			global::JustStatics.Droid.Shared.Resource.Id.snap = global::JustStatics.Droid.Resource.Id.snap;
+			global::JustStatics.Droid.Shared.Resource.Id.spacer = global::JustStatics.Droid.Resource.Id.spacer;
+			global::JustStatics.Droid.Shared.Resource.Id.split_action_bar = global::JustStatics.Droid.Resource.Id.split_action_bar;
+			global::JustStatics.Droid.Shared.Resource.Id.src_atop = global::JustStatics.Droid.Resource.Id.src_atop;
+			global::JustStatics.Droid.Shared.Resource.Id.src_in = global::JustStatics.Droid.Resource.Id.src_in;
+			global::JustStatics.Droid.Shared.Resource.Id.src_over = global::JustStatics.Droid.Resource.Id.src_over;
+			global::JustStatics.Droid.Shared.Resource.Id.start = global::JustStatics.Droid.Resource.Id.start;
+			global::JustStatics.Droid.Shared.Resource.Id.status_bar_latest_event_content = global::JustStatics.Droid.Resource.Id.status_bar_latest_event_content;
+			global::JustStatics.Droid.Shared.Resource.Id.submenuarrow = global::JustStatics.Droid.Resource.Id.submenuarrow;
+			global::JustStatics.Droid.Shared.Resource.Id.submit_area = global::JustStatics.Droid.Resource.Id.submit_area;
+			global::JustStatics.Droid.Shared.Resource.Id.tabMode = global::JustStatics.Droid.Resource.Id.tabMode;
+			global::JustStatics.Droid.Shared.Resource.Id.text = global::JustStatics.Droid.Resource.Id.text;
+			global::JustStatics.Droid.Shared.Resource.Id.text2 = global::JustStatics.Droid.Resource.Id.text2;
+			global::JustStatics.Droid.Shared.Resource.Id.textSpacerNoButtons = global::JustStatics.Droid.Resource.Id.textSpacerNoButtons;
+			global::JustStatics.Droid.Shared.Resource.Id.textSpacerNoTitle = global::JustStatics.Droid.Resource.Id.textSpacerNoTitle;
+			global::JustStatics.Droid.Shared.Resource.Id.text_input_password_toggle = global::JustStatics.Droid.Resource.Id.text_input_password_toggle;
+			global::JustStatics.Droid.Shared.Resource.Id.textinput_counter = global::JustStatics.Droid.Resource.Id.textinput_counter;
+			global::JustStatics.Droid.Shared.Resource.Id.textinput_error = global::JustStatics.Droid.Resource.Id.textinput_error;
+			global::JustStatics.Droid.Shared.Resource.Id.time = global::JustStatics.Droid.Resource.Id.time;
+			global::JustStatics.Droid.Shared.Resource.Id.title = global::JustStatics.Droid.Resource.Id.title;
+			global::JustStatics.Droid.Shared.Resource.Id.titleDividerNoCustom = global::JustStatics.Droid.Resource.Id.titleDividerNoCustom;
+			global::JustStatics.Droid.Shared.Resource.Id.title_template = global::JustStatics.Droid.Resource.Id.title_template;
+			global::JustStatics.Droid.Shared.Resource.Id.top = global::JustStatics.Droid.Resource.Id.top;
+			global::JustStatics.Droid.Shared.Resource.Id.topPanel = global::JustStatics.Droid.Resource.Id.topPanel;
+			global::JustStatics.Droid.Shared.Resource.Id.touch_outside = global::JustStatics.Droid.Resource.Id.touch_outside;
+			global::JustStatics.Droid.Shared.Resource.Id.transition_current_scene = global::JustStatics.Droid.Resource.Id.transition_current_scene;
+			global::JustStatics.Droid.Shared.Resource.Id.transition_scene_layoutid_cache = global::JustStatics.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::JustStatics.Droid.Shared.Resource.Id.up = global::JustStatics.Droid.Resource.Id.up;
+			global::JustStatics.Droid.Shared.Resource.Id.useLogo = global::JustStatics.Droid.Resource.Id.useLogo;
+			global::JustStatics.Droid.Shared.Resource.Id.view_offset_helper = global::JustStatics.Droid.Resource.Id.view_offset_helper;
+			global::JustStatics.Droid.Shared.Resource.Id.visible = global::JustStatics.Droid.Resource.Id.visible;
+			global::JustStatics.Droid.Shared.Resource.Id.withText = global::JustStatics.Droid.Resource.Id.withText;
+			global::JustStatics.Droid.Shared.Resource.Id.wrap_content = global::JustStatics.Droid.Resource.Id.wrap_content;
+			global::JustStatics.Droid.Shared.Resource.Integer.abc_config_activityDefaultDur = global::JustStatics.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::JustStatics.Droid.Shared.Resource.Integer.abc_config_activityShortDur = global::JustStatics.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::JustStatics.Droid.Shared.Resource.Integer.app_bar_elevation_anim_duration = global::JustStatics.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::JustStatics.Droid.Shared.Resource.Integer.bottom_sheet_slide_duration = global::JustStatics.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::JustStatics.Droid.Shared.Resource.Integer.cancel_button_image_alpha = global::JustStatics.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::JustStatics.Droid.Shared.Resource.Integer.design_snackbar_text_max_lines = global::JustStatics.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::JustStatics.Droid.Shared.Resource.Integer.hide_password_duration = global::JustStatics.Droid.Resource.Integer.hide_password_duration;
+			global::JustStatics.Droid.Shared.Resource.Integer.show_password_duration = global::JustStatics.Droid.Resource.Integer.show_password_duration;
+			global::JustStatics.Droid.Shared.Resource.Integer.status_bar_notification_info_maxnum = global::JustStatics.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_bar_title_item = global::JustStatics.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_bar_up_container = global::JustStatics.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_bar_view_list_nav_layout = global::JustStatics.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_menu_item_layout = global::JustStatics.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_menu_layout = global::JustStatics.Droid.Resource.Layout.abc_action_menu_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_mode_bar = global::JustStatics.Droid.Resource.Layout.abc_action_mode_bar;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_action_mode_close_item_material = global::JustStatics.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_activity_chooser_view = global::JustStatics.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_activity_chooser_view_list_item = global::JustStatics.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_alert_dialog_button_bar_material = global::JustStatics.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_alert_dialog_material = global::JustStatics.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_alert_dialog_title_material = global::JustStatics.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_dialog_title_material = global::JustStatics.Droid.Resource.Layout.abc_dialog_title_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_expanded_menu_layout = global::JustStatics.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_list_menu_item_checkbox = global::JustStatics.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_list_menu_item_icon = global::JustStatics.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_list_menu_item_layout = global::JustStatics.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_list_menu_item_radio = global::JustStatics.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_popup_menu_header_item_layout = global::JustStatics.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_popup_menu_item_layout = global::JustStatics.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_screen_content_include = global::JustStatics.Droid.Resource.Layout.abc_screen_content_include;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_screen_simple = global::JustStatics.Droid.Resource.Layout.abc_screen_simple;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_screen_simple_overlay_action_mode = global::JustStatics.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_screen_toolbar = global::JustStatics.Droid.Resource.Layout.abc_screen_toolbar;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_search_dropdown_item_icons_2line = global::JustStatics.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_search_view = global::JustStatics.Droid.Resource.Layout.abc_search_view;
+			global::JustStatics.Droid.Shared.Resource.Layout.abc_select_dialog_material = global::JustStatics.Droid.Resource.Layout.abc_select_dialog_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_bottom_navigation_item = global::JustStatics.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_bottom_sheet_dialog = global::JustStatics.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_layout_snackbar = global::JustStatics.Droid.Resource.Layout.design_layout_snackbar;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_layout_snackbar_include = global::JustStatics.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_layout_tab_icon = global::JustStatics.Droid.Resource.Layout.design_layout_tab_icon;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_layout_tab_text = global::JustStatics.Droid.Resource.Layout.design_layout_tab_text;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_menu_item_action_area = global::JustStatics.Droid.Resource.Layout.design_menu_item_action_area;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_item = global::JustStatics.Droid.Resource.Layout.design_navigation_item;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_item_header = global::JustStatics.Droid.Resource.Layout.design_navigation_item_header;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_item_separator = global::JustStatics.Droid.Resource.Layout.design_navigation_item_separator;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_item_subheader = global::JustStatics.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_menu = global::JustStatics.Droid.Resource.Layout.design_navigation_menu;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_navigation_menu_item = global::JustStatics.Droid.Resource.Layout.design_navigation_menu_item;
+			global::JustStatics.Droid.Shared.Resource.Layout.design_text_input_password_icon = global::JustStatics.Droid.Resource.Layout.design_text_input_password_icon;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_action = global::JustStatics.Droid.Resource.Layout.notification_action;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_action_tombstone = global::JustStatics.Droid.Resource.Layout.notification_action_tombstone;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_media_action = global::JustStatics.Droid.Resource.Layout.notification_media_action;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_media_cancel_action = global::JustStatics.Droid.Resource.Layout.notification_media_cancel_action;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_big_media = global::JustStatics.Droid.Resource.Layout.notification_template_big_media;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_big_media_custom = global::JustStatics.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_big_media_narrow = global::JustStatics.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_big_media_narrow_custom = global::JustStatics.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_custom_big = global::JustStatics.Droid.Resource.Layout.notification_template_custom_big;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_icon_group = global::JustStatics.Droid.Resource.Layout.notification_template_icon_group;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_lines_media = global::JustStatics.Droid.Resource.Layout.notification_template_lines_media;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_media = global::JustStatics.Droid.Resource.Layout.notification_template_media;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_media_custom = global::JustStatics.Droid.Resource.Layout.notification_template_media_custom;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_part_chronometer = global::JustStatics.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::JustStatics.Droid.Shared.Resource.Layout.notification_template_part_time = global::JustStatics.Droid.Resource.Layout.notification_template_part_time;
+			global::JustStatics.Droid.Shared.Resource.Layout.select_dialog_item_material = global::JustStatics.Droid.Resource.Layout.select_dialog_item_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.select_dialog_multichoice_material = global::JustStatics.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.select_dialog_singlechoice_material = global::JustStatics.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::JustStatics.Droid.Shared.Resource.Layout.support_simple_spinner_dropdown_item = global::JustStatics.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_bar_home_description = global::JustStatics.Droid.Resource.String.abc_action_bar_home_description;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_bar_home_description_format = global::JustStatics.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_bar_home_subtitle_description_format = global::JustStatics.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_bar_up_description = global::JustStatics.Droid.Resource.String.abc_action_bar_up_description;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_menu_overflow_description = global::JustStatics.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::JustStatics.Droid.Shared.Resource.String.abc_action_mode_done = global::JustStatics.Droid.Resource.String.abc_action_mode_done;
+			global::JustStatics.Droid.Shared.Resource.String.abc_activity_chooser_view_see_all = global::JustStatics.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::JustStatics.Droid.Shared.Resource.String.abc_activitychooserview_choose_application = global::JustStatics.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::JustStatics.Droid.Shared.Resource.String.abc_capital_off = global::JustStatics.Droid.Resource.String.abc_capital_off;
+			global::JustStatics.Droid.Shared.Resource.String.abc_capital_on = global::JustStatics.Droid.Resource.String.abc_capital_on;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_body_1_material = global::JustStatics.Droid.Resource.String.abc_font_family_body_1_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_body_2_material = global::JustStatics.Droid.Resource.String.abc_font_family_body_2_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_button_material = global::JustStatics.Droid.Resource.String.abc_font_family_button_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_caption_material = global::JustStatics.Droid.Resource.String.abc_font_family_caption_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_display_1_material = global::JustStatics.Droid.Resource.String.abc_font_family_display_1_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_display_2_material = global::JustStatics.Droid.Resource.String.abc_font_family_display_2_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_display_3_material = global::JustStatics.Droid.Resource.String.abc_font_family_display_3_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_display_4_material = global::JustStatics.Droid.Resource.String.abc_font_family_display_4_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_headline_material = global::JustStatics.Droid.Resource.String.abc_font_family_headline_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_menu_material = global::JustStatics.Droid.Resource.String.abc_font_family_menu_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_subhead_material = global::JustStatics.Droid.Resource.String.abc_font_family_subhead_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_font_family_title_material = global::JustStatics.Droid.Resource.String.abc_font_family_title_material;
+			global::JustStatics.Droid.Shared.Resource.String.abc_search_hint = global::JustStatics.Droid.Resource.String.abc_search_hint;
+			global::JustStatics.Droid.Shared.Resource.String.abc_searchview_description_clear = global::JustStatics.Droid.Resource.String.abc_searchview_description_clear;
+			global::JustStatics.Droid.Shared.Resource.String.abc_searchview_description_query = global::JustStatics.Droid.Resource.String.abc_searchview_description_query;
+			global::JustStatics.Droid.Shared.Resource.String.abc_searchview_description_search = global::JustStatics.Droid.Resource.String.abc_searchview_description_search;
+			global::JustStatics.Droid.Shared.Resource.String.abc_searchview_description_submit = global::JustStatics.Droid.Resource.String.abc_searchview_description_submit;
+			global::JustStatics.Droid.Shared.Resource.String.abc_searchview_description_voice = global::JustStatics.Droid.Resource.String.abc_searchview_description_voice;
+			global::JustStatics.Droid.Shared.Resource.String.abc_shareactionprovider_share_with = global::JustStatics.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::JustStatics.Droid.Shared.Resource.String.abc_shareactionprovider_share_with_application = global::JustStatics.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::JustStatics.Droid.Shared.Resource.String.abc_toolbar_collapse_description = global::JustStatics.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::JustStatics.Droid.Shared.Resource.String.app_name = global::JustStatics.Droid.Resource.String.app_name;
+			global::JustStatics.Droid.Shared.Resource.String.appbar_scrolling_view_behavior = global::JustStatics.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::JustStatics.Droid.Shared.Resource.String.bottom_sheet_behavior = global::JustStatics.Droid.Resource.String.bottom_sheet_behavior;
+			global::JustStatics.Droid.Shared.Resource.String.character_counter_pattern = global::JustStatics.Droid.Resource.String.character_counter_pattern;
+			global::JustStatics.Droid.Shared.Resource.String.hello = global::JustStatics.Droid.Resource.String.hello;
+			global::JustStatics.Droid.Shared.Resource.String.password_toggle_content_description = global::JustStatics.Droid.Resource.String.password_toggle_content_description;
+			global::JustStatics.Droid.Shared.Resource.String.path_password_eye = global::JustStatics.Droid.Resource.String.path_password_eye;
+			global::JustStatics.Droid.Shared.Resource.String.path_password_eye_mask_strike_through = global::JustStatics.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::JustStatics.Droid.Shared.Resource.String.path_password_eye_mask_visible = global::JustStatics.Droid.Resource.String.path_password_eye_mask_visible;
+			global::JustStatics.Droid.Shared.Resource.String.path_password_strike_through = global::JustStatics.Droid.Resource.String.path_password_strike_through;
+			global::JustStatics.Droid.Shared.Resource.String.search_menu_title = global::JustStatics.Droid.Resource.String.search_menu_title;
+			global::JustStatics.Droid.Shared.Resource.String.status_bar_notification_info_overflow = global::JustStatics.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.AlertDialog_AppCompat = global::JustStatics.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.AlertDialog_AppCompat_Light = global::JustStatics.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Animation_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Animation_AppCompat_DropDownUp = global::JustStatics.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::JustStatics.Droid.Shared.Resource.Style.Animation_Design_BottomSheetDialog = global::JustStatics.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_AlertDialog_AppCompat = global::JustStatics.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_AlertDialog_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Animation_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::JustStatics.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_DialogWindowTitle_AppCompat = global::JustStatics.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::JustStatics.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Button = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Large = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Small = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Title = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::JustStatics.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::JustStatics.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::JustStatics.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::JustStatics.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::JustStatics.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V21_Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V21_Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::JustStatics.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V22_Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V22_Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V23_Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V23_Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::JustStatics.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::JustStatics.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::JustStatics.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionButton = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActionMode = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Button_Small = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_EditText = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ImageButton = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ListView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_RatingBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_SearchView = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_SeekBar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Spinner = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Toolbar = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::JustStatics.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_Design_AppBarLayout = global::JustStatics.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Base_Widget_Design_TabLayout = global::JustStatics.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_ThemeOverlay_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::JustStatics.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V11_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V11_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V14_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V14_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V21_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V21_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V25_AppCompat = global::JustStatics.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_V25_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Platform_Widget_AppCompat_Spinner = global::JustStatics.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::JustStatics.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::JustStatics.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::JustStatics.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::JustStatics.Droid.Shared.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::JustStatics.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Body1 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Body2 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Button = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Caption = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Display1 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Display2 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Display3 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Display4 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Headline = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Large = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Medium = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Menu = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Small = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Subhead = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::JustStatics.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Counter = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Counter_Overflow = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Error = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Hint = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Snackbar_Message = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Design_Tab = global::JustStatics.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_StatusBar_EventContent = global::JustStatics.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::JustStatics.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::JustStatics.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::JustStatics.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::JustStatics.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::JustStatics.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::JustStatics.Droid.Shared.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::JustStatics.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat = global::JustStatics.Droid.Resource.Style.Theme_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_CompactMenu = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_Dialog = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_AppCompat_NoActionBar = global::JustStatics.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design = global::JustStatics.Droid.Resource.Style.Theme_Design;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design_BottomSheetDialog = global::JustStatics.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design_Light = global::JustStatics.Droid.Resource.Style.Theme_Design_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::JustStatics.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design_Light_NoActionBar = global::JustStatics.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Theme_Design_NoActionBar = global::JustStatics.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_Dark = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::JustStatics.Droid.Shared.Resource.Style.ThemeOverlay_AppCompat_Light = global::JustStatics.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionButton = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActionMode = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ActivityChooserView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button_Borderless = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button_Colored = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Button_Small = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ButtonBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_EditText = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ImageButton = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionButton = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_SearchView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ListMenuView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ListPopupWindow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ListView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ListView_DropDown = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ListView_Menu = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_NotificationActionContainer = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_NotificationActionContainer;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_NotificationActionText = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_NotificationActionText;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_PopupMenu = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_PopupWindow = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ProgressBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_RatingBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_RatingBar_Small = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_SearchView = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_SeekBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Spinner = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Toolbar = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::JustStatics.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_AppBarLayout = global::JustStatics.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_BottomNavigationView = global::JustStatics.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_BottomSheet_Modal = global::JustStatics.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_CollapsingToolbar = global::JustStatics.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_CoordinatorLayout = global::JustStatics.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_FloatingActionButton = global::JustStatics.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_NavigationView = global::JustStatics.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::JustStatics.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_Snackbar = global::JustStatics.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_TabLayout = global::JustStatics.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::JustStatics.Droid.Shared.Resource.Style.Widget_Design_TextInputLayout = global::JustStatics.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar = global::JustStatics.Droid.Resource.Styleable.ActionBar;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_background = global::JustStatics.Droid.Resource.Styleable.ActionBar_background;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_backgroundSplit = global::JustStatics.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_backgroundStacked = global::JustStatics.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetEnd = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetLeft = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetRight = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetStart = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::JustStatics.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_customNavigationLayout = global::JustStatics.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_displayOptions = global::JustStatics.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_divider = global::JustStatics.Droid.Resource.Styleable.ActionBar_divider;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_elevation = global::JustStatics.Droid.Resource.Styleable.ActionBar_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_height = global::JustStatics.Droid.Resource.Styleable.ActionBar_height;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_hideOnContentScroll = global::JustStatics.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_homeAsUpIndicator = global::JustStatics.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_homeLayout = global::JustStatics.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_icon = global::JustStatics.Droid.Resource.Styleable.ActionBar_icon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::JustStatics.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_itemPadding = global::JustStatics.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_logo = global::JustStatics.Droid.Resource.Styleable.ActionBar_logo;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_navigationMode = global::JustStatics.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_popupTheme = global::JustStatics.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_progressBarPadding = global::JustStatics.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_progressBarStyle = global::JustStatics.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_subtitle = global::JustStatics.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_subtitleTextStyle = global::JustStatics.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_title = global::JustStatics.Droid.Resource.Styleable.ActionBar_title;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBar_titleTextStyle = global::JustStatics.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBarLayout = global::JustStatics.Droid.Resource.Styleable.ActionBarLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::JustStatics.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMenuItemView = global::JustStatics.Droid.Resource.Styleable.ActionMenuItemView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMenuItemView_android_minWidth = global::JustStatics.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMenuView = global::JustStatics.Droid.Resource.Styleable.ActionMenuView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode = global::JustStatics.Droid.Resource.Styleable.ActionMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_background = global::JustStatics.Droid.Resource.Styleable.ActionMode_background;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_backgroundSplit = global::JustStatics.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_closeItemLayout = global::JustStatics.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_height = global::JustStatics.Droid.Resource.Styleable.ActionMode_height;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_subtitleTextStyle = global::JustStatics.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActionMode_titleTextStyle = global::JustStatics.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActivityChooserView = global::JustStatics.Droid.Resource.Styleable.ActivityChooserView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::JustStatics.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ActivityChooserView_initialActivityCount = global::JustStatics.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog = global::JustStatics.Droid.Resource.Styleable.AlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_android_layout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_listItemLayout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_listLayout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_showTitle = global::JustStatics.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::JustStatics.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout = global::JustStatics.Droid.Resource.Styleable.AppBarLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_android_background = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_elevation = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_expanded = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayoutStates = global::JustStatics.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::JustStatics.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::JustStatics.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_Layout = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::JustStatics.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatImageView = global::JustStatics.Droid.Resource.Styleable.AppCompatImageView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatImageView_android_src = global::JustStatics.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatImageView_srcCompat = global::JustStatics.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatImageView_tint = global::JustStatics.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatImageView_tintMode = global::JustStatics.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatSeekBar = global::JustStatics.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatSeekBar_android_thumb = global::JustStatics.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatSeekBar_tickMark = global::JustStatics.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::JustStatics.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::JustStatics.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::JustStatics.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextView = global::JustStatics.Droid.Resource.Styleable.AppCompatTextView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextView_android_textAppearance = global::JustStatics.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTextView_textAllCaps = global::JustStatics.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarDivider = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarSize = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_checkboxStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorAccent = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorControlActivated = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorControlNormal = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorPrimary = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_controlBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dialogTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dividerVertical = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_editTextBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_editTextColor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_editTextStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_panelBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_searchViewStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_seekBarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_spinnerStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_switchStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_toolbarStyle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowActionBar = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.AppCompatTheme_windowNoTitle = global::JustStatics.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView_elevation = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView_itemBackground = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView_itemIconTint = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView_itemTextColor = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomNavigationView_menu = global::JustStatics.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomSheetBehavior_Layout = global::JustStatics.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::JustStatics.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::JustStatics.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::JustStatics.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ButtonBarLayout = global::JustStatics.Droid.Resource.Styleable.ButtonBarLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ButtonBarLayout_allowStacking = global::JustStatics.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_title = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_Layout = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::JustStatics.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ColorStateListItem = global::JustStatics.Droid.Resource.Styleable.ColorStateListItem;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ColorStateListItem_alpha = global::JustStatics.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ColorStateListItem_android_alpha = global::JustStatics.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ColorStateListItem_android_color = global::JustStatics.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CompoundButton = global::JustStatics.Droid.Resource.Styleable.CompoundButton;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CompoundButton_android_button = global::JustStatics.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CompoundButton_buttonTint = global::JustStatics.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CompoundButton_buttonTintMode = global::JustStatics.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_keylines = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::JustStatics.Droid.Shared.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::JustStatics.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DesignTheme = global::JustStatics.Droid.Resource.Styleable.DesignTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::JustStatics.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DesignTheme_bottomSheetStyle = global::JustStatics.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DesignTheme_textColorError = global::JustStatics.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_barLength = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_color = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_drawableSize = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_spinBars = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::JustStatics.Droid.Shared.Resource.Styleable.DrawerArrowToggle_thickness = global::JustStatics.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_backgroundTint = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_borderWidth = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_elevation = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_fabSize = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_rippleColor = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_useCompatPadding = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::JustStatics.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ForegroundLinearLayout = global::JustStatics.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::JustStatics.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::JustStatics.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::JustStatics.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_android_gravity = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_android_orientation = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_divider = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_showDividers = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_Layout = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::JustStatics.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ListPopupWindow = global::JustStatics.Droid.Resource.Styleable.ListPopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::JustStatics.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::JustStatics.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup = global::JustStatics.Droid.Resource.Styleable.MenuGroup;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_checkableBehavior = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_enabled = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_id = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_menuCategory = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_orderInCategory = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuGroup_android_visible = global::JustStatics.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem = global::JustStatics.Droid.Resource.Styleable.MenuItem;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_actionLayout = global::JustStatics.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_actionProviderClass = global::JustStatics.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_actionViewClass = global::JustStatics.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_checkable = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_checked = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_enabled = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_icon = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_id = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_id;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_menuCategory = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_numericShortcut = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_onClick = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_orderInCategory = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_title = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_title;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_titleCondensed = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_android_visible = global::JustStatics.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuItem_showAsAction = global::JustStatics.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView = global::JustStatics.Droid.Resource.Styleable.MenuView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_headerBackground = global::JustStatics.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_horizontalDivider = global::JustStatics.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_itemBackground = global::JustStatics.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::JustStatics.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_itemTextAppearance = global::JustStatics.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_verticalDivider = global::JustStatics.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_android_windowAnimationStyle = global::JustStatics.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_preserveIconSpacing = global::JustStatics.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::JustStatics.Droid.Shared.Resource.Styleable.MenuView_subMenuArrow = global::JustStatics.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView = global::JustStatics.Droid.Resource.Styleable.NavigationView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_android_background = global::JustStatics.Droid.Resource.Styleable.NavigationView_android_background;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::JustStatics.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_android_maxWidth = global::JustStatics.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_elevation = global::JustStatics.Droid.Resource.Styleable.NavigationView_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_headerLayout = global::JustStatics.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_itemBackground = global::JustStatics.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_itemIconTint = global::JustStatics.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_itemTextAppearance = global::JustStatics.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_itemTextColor = global::JustStatics.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.NavigationView_menu = global::JustStatics.Droid.Resource.Styleable.NavigationView_menu;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindow = global::JustStatics.Droid.Resource.Styleable.PopupWindow;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::JustStatics.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindow_android_popupBackground = global::JustStatics.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindow_overlapAnchor = global::JustStatics.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindowBackgroundState = global::JustStatics.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::JustStatics.Droid.Shared.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::JustStatics.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecycleListView = global::JustStatics.Droid.Resource.Styleable.RecycleListView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::JustStatics.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::JustStatics.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView = global::JustStatics.Droid.Resource.Styleable.RecyclerView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_android_descendantFocusability = global::JustStatics.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_android_orientation = global::JustStatics.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_layoutManager = global::JustStatics.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_reverseLayout = global::JustStatics.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_spanCount = global::JustStatics.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::JustStatics.Droid.Shared.Resource.Styleable.RecyclerView_stackFromEnd = global::JustStatics.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ScrimInsetsFrameLayout = global::JustStatics.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::JustStatics.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ScrollingViewBehavior_Layout = global::JustStatics.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::JustStatics.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView = global::JustStatics.Droid.Resource.Styleable.SearchView;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_android_focusable = global::JustStatics.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_android_imeOptions = global::JustStatics.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_android_inputType = global::JustStatics.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_android_maxWidth = global::JustStatics.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_closeIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_commitIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_defaultQueryHint = global::JustStatics.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_goIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_goIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_iconifiedByDefault = global::JustStatics.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_layout = global::JustStatics.Droid.Resource.Styleable.SearchView_layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_queryBackground = global::JustStatics.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_queryHint = global::JustStatics.Droid.Resource.Styleable.SearchView_queryHint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_searchHintIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_searchIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_submitBackground = global::JustStatics.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_suggestionRowLayout = global::JustStatics.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SearchView_voiceIcon = global::JustStatics.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SnackbarLayout = global::JustStatics.Droid.Resource.Styleable.SnackbarLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SnackbarLayout_android_maxWidth = global::JustStatics.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SnackbarLayout_elevation = global::JustStatics.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::JustStatics.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner = global::JustStatics.Droid.Resource.Styleable.Spinner;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner_android_dropDownWidth = global::JustStatics.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner_android_entries = global::JustStatics.Droid.Resource.Styleable.Spinner_android_entries;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner_android_popupBackground = global::JustStatics.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner_android_prompt = global::JustStatics.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Spinner_popupTheme = global::JustStatics.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat = global::JustStatics.Droid.Resource.Styleable.SwitchCompat;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_android_textOff = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_android_textOn = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_android_thumb = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_showText = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_splitTrack = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_switchMinWidth = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_switchPadding = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_switchTextAppearance = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_thumbTextPadding = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_thumbTint = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_thumbTintMode = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_track = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_track;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_trackTint = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.SwitchCompat_trackTintMode = global::JustStatics.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabItem = global::JustStatics.Droid.Resource.Styleable.TabItem;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabItem_android_icon = global::JustStatics.Droid.Resource.Styleable.TabItem_android_icon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabItem_android_layout = global::JustStatics.Droid.Resource.Styleable.TabItem_android_layout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabItem_android_text = global::JustStatics.Droid.Resource.Styleable.TabItem_android_text;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout = global::JustStatics.Droid.Resource.Styleable.TabLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabBackground = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabContentStart = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabGravity = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabIndicatorColor = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabIndicatorHeight = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabMaxWidth = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabMinWidth = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabMode = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabPadding = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabPaddingBottom = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabPaddingEnd = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabPaddingStart = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabPaddingTop = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabSelectedTextColor = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabTextAppearance = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TabLayout_tabTextColor = global::JustStatics.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance = global::JustStatics.Droid.Resource.Styleable.TextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_shadowColor = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_shadowDx = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_shadowDy = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_shadowRadius = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_textColor = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_textColorHint = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_textSize = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_textStyle = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_android_typeface = global::JustStatics.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextAppearance_textAllCaps = global::JustStatics.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout = global::JustStatics.Droid.Resource.Styleable.TextInputLayout;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_android_hint = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_android_textColorHint = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_counterEnabled = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_counterMaxLength = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_counterTextAppearance = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_errorEnabled = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_errorTextAppearance = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_hintEnabled = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_hintTextAppearance = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_passwordToggleTint = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::JustStatics.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar = global::JustStatics.Droid.Resource.Styleable.Toolbar;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_android_gravity = global::JustStatics.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_android_minHeight = global::JustStatics.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_buttonGravity = global::JustStatics.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_collapseContentDescription = global::JustStatics.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_collapseIcon = global::JustStatics.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetEnd = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetLeft = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetRight = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetStart = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::JustStatics.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_logo = global::JustStatics.Droid.Resource.Styleable.Toolbar_logo;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_logoDescription = global::JustStatics.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_maxButtonHeight = global::JustStatics.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_navigationContentDescription = global::JustStatics.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_navigationIcon = global::JustStatics.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_popupTheme = global::JustStatics.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_subtitle = global::JustStatics.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_subtitleTextAppearance = global::JustStatics.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_subtitleTextColor = global::JustStatics.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_title = global::JustStatics.Droid.Resource.Styleable.Toolbar_title;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMargin = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMarginBottom = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMarginEnd = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMarginStart = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMarginTop = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleMargins = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleTextAppearance = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::JustStatics.Droid.Shared.Resource.Styleable.Toolbar_titleTextColor = global::JustStatics.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View = global::JustStatics.Droid.Resource.Styleable.View;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View_android_focusable = global::JustStatics.Droid.Resource.Styleable.View_android_focusable;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View_android_theme = global::JustStatics.Droid.Resource.Styleable.View_android_theme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View_paddingEnd = global::JustStatics.Droid.Resource.Styleable.View_paddingEnd;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View_paddingStart = global::JustStatics.Droid.Resource.Styleable.View_paddingStart;
+			global::JustStatics.Droid.Shared.Resource.Styleable.View_theme = global::JustStatics.Droid.Resource.Styleable.View_theme;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewBackgroundHelper = global::JustStatics.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewBackgroundHelper_android_background = global::JustStatics.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::JustStatics.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::JustStatics.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewStubCompat = global::JustStatics.Droid.Resource.Styleable.ViewStubCompat;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewStubCompat_android_id = global::JustStatics.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewStubCompat_android_inflatedId = global::JustStatics.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::JustStatics.Droid.Shared.Resource.Styleable.ViewStubCompat_android_layout = global::JustStatics.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -2092,26 +3919,26 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020068
-			public const int avd_hide_password_1 = 2130837608;
+			// aapt resource value: 0x7f02006d
+			public const int avd_hide_password_1 = 2130837613;
 			
-			// aapt resource value: 0x7f020069
-			public const int avd_hide_password_2 = 2130837609;
+			// aapt resource value: 0x7f02006e
+			public const int avd_hide_password_2 = 2130837614;
 			
-			// aapt resource value: 0x7f02006a
-			public const int avd_hide_password_3 = 2130837610;
+			// aapt resource value: 0x7f02006f
+			public const int avd_hide_password_3 = 2130837615;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f02006b
-			public const int avd_show_password_1 = 2130837611;
+			// aapt resource value: 0x7f020070
+			public const int avd_show_password_1 = 2130837616;
 			
-			// aapt resource value: 0x7f02006c
-			public const int avd_show_password_2 = 2130837612;
+			// aapt resource value: 0x7f020071
+			public const int avd_show_password_2 = 2130837617;
 			
-			// aapt resource value: 0x7f02006d
-			public const int avd_show_password_3 = 2130837613;
+			// aapt resource value: 0x7f020072
+			public const int avd_show_password_3 = 2130837618;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2132,43 +3959,58 @@ namespace JustStatics.Droid
 			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int navigation_empty_icon = 2130837595;
+			public const int ic_event = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int notification_action_background = 2130837596;
+			public const int ic_grade = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int notification_bg = 2130837597;
+			public const int ic_home = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int notification_bg_low = 2130837598;
+			public const int ic_more_horiz = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int notification_bg_low_normal = 2130837599;
+			public const int ic_photo = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int notification_bg_low_pressed = 2130837600;
+			public const int navigation_empty_icon = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int notification_bg_normal = 2130837601;
+			public const int notification_action_background = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_bg_normal_pressed = 2130837602;
+			public const int notification_bg = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_icon_background = 2130837603;
-			
-			// aapt resource value: 0x7f020066
-			public const int notification_template_icon_bg = 2130837606;
-			
-			// aapt resource value: 0x7f020067
-			public const int notification_template_icon_low_bg = 2130837607;
+			public const int notification_bg_low = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_tile_bg = 2130837604;
+			public const int notification_bg_low_normal = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int notify_panel_notification_icon_bg = 2130837605;
+			public const int notification_bg_low_pressed = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int notification_bg_normal = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int notification_bg_normal_pressed = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int notification_icon_background = 2130837608;
+			
+			// aapt resource value: 0x7f02006b
+			public const int notification_template_icon_bg = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int notification_template_icon_low_bg = 2130837612;
+			
+			// aapt resource value: 0x7f020069
+			public const int notification_tile_bg = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int notify_panel_notification_icon_bg = 2130837610;
 			
 			static Drawable()
 			{
@@ -2183,8 +4025,8 @@ namespace JustStatics.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f080084
-			public const int action0 = 2131230852;
+			// aapt resource value: 0x7f080087
+			public const int action0 = 2131230855;
 			
 			// aapt resource value: 0x7f080064
 			public const int action_bar = 2131230820;
@@ -2207,17 +4049,17 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080041
 			public const int action_bar_title = 2131230785;
 			
-			// aapt resource value: 0x7f080081
-			public const int action_container = 2131230849;
+			// aapt resource value: 0x7f080084
+			public const int action_container = 2131230852;
 			
 			// aapt resource value: 0x7f080065
 			public const int action_context_bar = 2131230821;
 			
-			// aapt resource value: 0x7f080088
-			public const int action_divider = 2131230856;
+			// aapt resource value: 0x7f08008b
+			public const int action_divider = 2131230859;
 			
-			// aapt resource value: 0x7f080082
-			public const int action_image = 2131230850;
+			// aapt resource value: 0x7f080085
+			public const int action_image = 2131230853;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -2234,11 +4076,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080043
 			public const int action_mode_close_button = 2131230787;
 			
-			// aapt resource value: 0x7f080083
-			public const int action_text = 2131230851;
+			// aapt resource value: 0x7f080086
+			public const int action_text = 2131230854;
 			
-			// aapt resource value: 0x7f080091
-			public const int actions = 2131230865;
+			// aapt resource value: 0x7f080094
+			public const int actions = 2131230868;
 			
 			// aapt resource value: 0x7f080044
 			public const int activity_chooser_view_content = 2131230788;
@@ -2255,6 +4097,9 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080023
 			public const int always = 2131230755;
 			
+			// aapt resource value: 0x7f080074
+			public const int app_name = 2131230836;
+			
 			// aapt resource value: 0x7f08002f
 			public const int auto = 2131230767;
 			
@@ -2264,11 +4109,14 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080028
 			public const int bottom = 2131230760;
 			
+			// aapt resource value: 0x7f080075
+			public const int bottom_navigation = 2131230837;
+			
 			// aapt resource value: 0x7f08004b
 			public const int buttonPanel = 2131230795;
 			
-			// aapt resource value: 0x7f080085
-			public const int cancel_action = 2131230853;
+			// aapt resource value: 0x7f080088
+			public const int cancel_action = 2131230856;
 			
 			// aapt resource value: 0x7f080030
 			public const int center = 2131230768;
@@ -2282,8 +4130,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f08005b
 			public const int checkbox = 2131230811;
 			
-			// aapt resource value: 0x7f08008d
-			public const int chronometer = 2131230861;
+			// aapt resource value: 0x7f080090
+			public const int chronometer = 2131230864;
 			
 			// aapt resource value: 0x7f080039
 			public const int clip_horizontal = 2131230777;
@@ -2294,14 +4142,14 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080024
 			public const int collapseActionView = 2131230756;
 			
-			// aapt resource value: 0x7f080075
-			public const int container = 2131230837;
+			// aapt resource value: 0x7f080078
+			public const int container = 2131230840;
 			
 			// aapt resource value: 0x7f08004e
 			public const int contentPanel = 2131230798;
 			
-			// aapt resource value: 0x7f080076
-			public const int coordinator = 2131230838;
+			// aapt resource value: 0x7f080079
+			public const int coordinator = 2131230841;
 			
 			// aapt resource value: 0x7f080055
 			public const int custom = 2131230805;
@@ -2315,20 +4163,20 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080047
 			public const int default_activity_button = 2131230791;
 			
-			// aapt resource value: 0x7f080078
-			public const int design_bottom_sheet = 2131230840;
+			// aapt resource value: 0x7f08007b
+			public const int design_bottom_sheet = 2131230843;
+			
+			// aapt resource value: 0x7f080082
+			public const int design_menu_item_action_area = 2131230850;
+			
+			// aapt resource value: 0x7f080081
+			public const int design_menu_item_action_area_stub = 2131230849;
+			
+			// aapt resource value: 0x7f080080
+			public const int design_menu_item_text = 2131230848;
 			
 			// aapt resource value: 0x7f08007f
-			public const int design_menu_item_action_area = 2131230847;
-			
-			// aapt resource value: 0x7f08007e
-			public const int design_menu_item_action_area_stub = 2131230846;
-			
-			// aapt resource value: 0x7f08007d
-			public const int design_menu_item_text = 2131230845;
-			
-			// aapt resource value: 0x7f08007c
-			public const int design_navigation_view = 2131230844;
+			public const int design_navigation_view = 2131230847;
 			
 			// aapt resource value: 0x7f080012
 			public const int disableHome = 2131230738;
@@ -2339,8 +4187,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080021
 			public const int end = 2131230753;
 			
-			// aapt resource value: 0x7f080097
-			public const int end_padder = 2131230871;
+			// aapt resource value: 0x7f08009a
+			public const int end_padder = 2131230874;
 			
 			// aapt resource value: 0x7f08002a
 			public const int enterAlways = 2131230762;
@@ -2378,8 +4226,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080049
 			public const int icon = 2131230793;
 			
-			// aapt resource value: 0x7f080092
-			public const int icon_group = 2131230866;
+			// aapt resource value: 0x7f080095
+			public const int icon_group = 2131230869;
 			
 			// aapt resource value: 0x7f080025
 			public const int ifRoom = 2131230757;
@@ -2387,23 +4235,23 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080046
 			public const int image = 2131230790;
 			
-			// aapt resource value: 0x7f08008e
-			public const int info = 2131230862;
+			// aapt resource value: 0x7f080091
+			public const int info = 2131230865;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f080074
-			public const int largeLabel = 2131230836;
+			// aapt resource value: 0x7f080077
+			public const int largeLabel = 2131230839;
 			
 			// aapt resource value: 0x7f080034
 			public const int left = 2131230772;
 			
-			// aapt resource value: 0x7f080093
-			public const int line1 = 2131230867;
+			// aapt resource value: 0x7f080096
+			public const int line1 = 2131230870;
 			
-			// aapt resource value: 0x7f080095
-			public const int line3 = 2131230869;
+			// aapt resource value: 0x7f080098
+			public const int line3 = 2131230872;
 			
 			// aapt resource value: 0x7f08000f
 			public const int listMode = 2131230735;
@@ -2411,11 +4259,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080048
 			public const int list_item = 2131230792;
 			
-			// aapt resource value: 0x7f080099
-			public const int masked = 2131230873;
+			// aapt resource value: 0x7f08009c
+			public const int masked = 2131230876;
 			
-			// aapt resource value: 0x7f080087
-			public const int media_actions = 2131230855;
+			// aapt resource value: 0x7f08008a
+			public const int media_actions = 2131230858;
 			
 			// aapt resource value: 0x7f080022
 			public const int middle = 2131230754;
@@ -2426,8 +4274,23 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080019
 			public const int multiply = 2131230745;
 			
-			// aapt resource value: 0x7f08007b
-			public const int navigation_header_container = 2131230843;
+			// aapt resource value: 0x7f08009f
+			public const int navigation_car_of_the_month = 2131230879;
+			
+			// aapt resource value: 0x7f08009e
+			public const int navigation_events = 2131230878;
+			
+			// aapt resource value: 0x7f08007e
+			public const int navigation_header_container = 2131230846;
+			
+			// aapt resource value: 0x7f08009d
+			public const int navigation_home = 2131230877;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int navigation_more = 2131230881;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int navigation_photos = 2131230880;
 			
 			// aapt resource value: 0x7f080026
 			public const int never = 2131230758;
@@ -2438,14 +4301,14 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080010
 			public const int normal = 2131230736;
 			
-			// aapt resource value: 0x7f080090
-			public const int notification_background = 2131230864;
+			// aapt resource value: 0x7f080093
+			public const int notification_background = 2131230867;
 			
-			// aapt resource value: 0x7f08008a
-			public const int notification_main_column = 2131230858;
+			// aapt resource value: 0x7f08008d
+			public const int notification_main_column = 2131230861;
 			
-			// aapt resource value: 0x7f080089
-			public const int notification_main_column_container = 2131230857;
+			// aapt resource value: 0x7f08008c
+			public const int notification_main_column_container = 2131230860;
 			
 			// aapt resource value: 0x7f080037
 			public const int parallax = 2131230775;
@@ -2468,11 +4331,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080035
 			public const int right = 2131230773;
 			
-			// aapt resource value: 0x7f08008f
-			public const int right_icon = 2131230863;
+			// aapt resource value: 0x7f080092
+			public const int right_icon = 2131230866;
 			
-			// aapt resource value: 0x7f08008b
-			public const int right_side = 2131230859;
+			// aapt resource value: 0x7f08008e
+			public const int right_side = 2131230862;
 			
 			// aapt resource value: 0x7f08001a
 			public const int screen = 2131230746;
@@ -2537,14 +4400,14 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080017
 			public const int showTitle = 2131230743;
 			
-			// aapt resource value: 0x7f080073
-			public const int smallLabel = 2131230835;
+			// aapt resource value: 0x7f080076
+			public const int smallLabel = 2131230838;
 			
-			// aapt resource value: 0x7f08007a
-			public const int snackbar_action = 2131230842;
+			// aapt resource value: 0x7f08007d
+			public const int snackbar_action = 2131230845;
 			
-			// aapt resource value: 0x7f080079
-			public const int snackbar_text = 2131230841;
+			// aapt resource value: 0x7f08007c
+			public const int snackbar_text = 2131230844;
 			
 			// aapt resource value: 0x7f08002e
 			public const int snap = 2131230766;
@@ -2567,8 +4430,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080036
 			public const int start = 2131230774;
 			
-			// aapt resource value: 0x7f080086
-			public const int status_bar_latest_event_content = 2131230854;
+			// aapt resource value: 0x7f080089
+			public const int status_bar_latest_event_content = 2131230857;
 			
 			// aapt resource value: 0x7f08005e
 			public const int submenuarrow = 2131230814;
@@ -2579,11 +4442,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080011
 			public const int tabMode = 2131230737;
 			
-			// aapt resource value: 0x7f080096
-			public const int text = 2131230870;
+			// aapt resource value: 0x7f080099
+			public const int text = 2131230873;
 			
-			// aapt resource value: 0x7f080094
-			public const int text2 = 2131230868;
+			// aapt resource value: 0x7f080097
+			public const int text2 = 2131230871;
 			
 			// aapt resource value: 0x7f080052
 			public const int textSpacerNoButtons = 2131230802;
@@ -2591,8 +4454,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080051
 			public const int textSpacerNoTitle = 2131230801;
 			
-			// aapt resource value: 0x7f080080
-			public const int text_input_password_toggle = 2131230848;
+			// aapt resource value: 0x7f080083
+			public const int text_input_password_toggle = 2131230851;
 			
 			// aapt resource value: 0x7f08000c
 			public const int textinput_counter = 2131230732;
@@ -2600,8 +4463,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f08008c
-			public const int time = 2131230860;
+			// aapt resource value: 0x7f08008f
+			public const int time = 2131230863;
 			
 			// aapt resource value: 0x7f08004a
 			public const int title = 2131230794;
@@ -2618,8 +4481,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f080056
 			public const int topPanel = 2131230806;
 			
-			// aapt resource value: 0x7f080077
-			public const int touch_outside = 2131230839;
+			// aapt resource value: 0x7f080073
+			public const int top_toolbar = 2131230835;
+			
+			// aapt resource value: 0x7f08007a
+			public const int touch_outside = 2131230842;
 			
 			// aapt resource value: 0x7f08000a
 			public const int transition_current_scene = 2131230730;
@@ -2636,8 +4502,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f080098
-			public const int visible = 2131230872;
+			// aapt resource value: 0x7f08009b
+			public const int visible = 2131230875;
 			
 			// aapt resource value: 0x7f080027
 			public const int withText = 2131230759;
@@ -2891,6 +4757,22 @@ namespace JustStatics.Droid
 			}
 		}
 		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0e0000
+			public const int navigation = 2131623936;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
+			{
+			}
+		}
+		
 		public partial class Mipmap
 		{
 			
@@ -3009,11 +4891,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f090012
 			public const int abc_toolbar_collapse_description = 2131296274;
 			
-			// aapt resource value: 0x7f09002a
-			public const int action_settings = 2131296298;
+			// aapt resource value: 0x7f09002b
+			public const int action_settings = 2131296299;
 			
-			// aapt resource value: 0x7f090029
-			public const int app_name = 2131296297;
+			// aapt resource value: 0x7f09002a
+			public const int app_name = 2131296298;
 			
 			// aapt resource value: 0x7f090021
 			public const int appbar_scrolling_view_behavior = 2131296289;
@@ -3023,6 +4905,12 @@ namespace JustStatics.Droid
 			
 			// aapt resource value: 0x7f090023
 			public const int character_counter_pattern = 2131296291;
+			
+			// aapt resource value: 0x7f09002c
+			public const int empty = 2131296300;
+			
+			// aapt resource value: 0x7f090029
+			public const int hello = 2131296297;
 			
 			// aapt resource value: 0x7f090024
 			public const int password_toggle_content_description = 2131296292;

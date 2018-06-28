@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">JustStatics.Droid.Shared</string>
+</resources>
