@@ -23,13 +23,23 @@ namespace JustStatics.Droid
             SetContentView(R.Layout.activity_main);
 
             // Set the toolbar to the element in the layout
-            SetSupportActionBar(FindViewById<ToolbarV7>(R.Id.top_toolbar));
+            //SetSupportActionBar(FindViewById<ToolbarV7>(R.Id.top_toolbar));
+
+            // Configure the toolbar
+            FindViewById<ToolbarV7>(R.Id.top_toolbar)
+                .SetEmptyTitle()
+                .SetAsSupportActionBar(this);
 
             // Set the custom typeface of the textview
-            FindViewById<TextView>(R.Id.app_name).SetCustomTypeface(Assets, "fonts/Harlow Solid Italic.ttf");
+            FindViewById<TextView>(R.Id.app_name).SetCustomTypeface(
+                Assets,
+                "fonts/Harlow Solid Italic.ttf");
 
             // Set the bottom navigation menu
-            FindViewById<BottomNavigationView>(R.Id.bottom_navigation).InflateMenu(R.Menu.navigation);
+            FindViewById<BottomNavigationView>(R.Id.bottom_navigation)
+                .SetItemIconTintList(this, R.Color.bottom_navigation)
+                .RemoveShiftingMode();
+            //.InflateMenu(R.Menu.bottom_navigation);
         }
     }
 }

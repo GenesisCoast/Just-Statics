@@ -45,9 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JavaExtensions\FieldExtensions.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewExtensions\BottomNavigationViewExtensions.cs" />
     <Compile Include="ViewExtensions\TextViewExtensions.cs" />
+    <Compile Include="ViewExtensions\ToolbarV7ViewExtension.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

@@ -3020,6 +3020,9 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f0c000a
 			public const int background_material_light = 2131492874;
 			
+			// aapt resource value: 0x7f0c005f
+			public const int bottom_navigation = 2131492959;
+			
 			// aapt resource value: 0x7f0c000b
 			public const int bright_foreground_disabled_material_dark = 2131492875;
 			
@@ -3056,8 +3059,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f0c003b
 			public const int design_bottom_navigation_shadow_color = 2131492923;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int design_error = 2131492959;
+			// aapt resource value: 0x7f0c0060
+			public const int design_error = 2131492960;
 			
 			// aapt resource value: 0x7f0c003c
 			public const int design_fab_shadow_end_color = 2131492924;
@@ -3089,8 +3092,8 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f0c0045
 			public const int design_textinput_error_color_light = 2131492933;
 			
-			// aapt resource value: 0x7f0c0060
-			public const int design_tint_password_toggle = 2131492960;
+			// aapt resource value: 0x7f0c0061
+			public const int design_tint_password_toggle = 2131492961;
 			
 			// aapt resource value: 0x7f0c0013
 			public const int dim_foreground_disabled_material_dark = 2131492883;
@@ -3212,11 +3215,11 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f0c0038
 			public const int switch_thumb_disabled_material_light = 2131492920;
 			
-			// aapt resource value: 0x7f0c0061
-			public const int switch_thumb_material_dark = 2131492961;
-			
 			// aapt resource value: 0x7f0c0062
-			public const int switch_thumb_material_light = 2131492962;
+			public const int switch_thumb_material_dark = 2131492962;
+			
+			// aapt resource value: 0x7f0c0063
+			public const int switch_thumb_material_light = 2131492963;
 			
 			// aapt resource value: 0x7f0c0039
 			public const int switch_thumb_normal_material_dark = 2131492921;
@@ -3959,19 +3962,19 @@ namespace JustStatics.Droid
 			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int ic_event = 2130837595;
+			public const int ic_action_event = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int ic_grade = 2130837596;
+			public const int ic_action_grade = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int ic_home = 2130837597;
+			public const int ic_action_home = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_more_horiz = 2130837598;
+			public const int ic_action_more_horiz = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int ic_photo = 2130837599;
+			public const int ic_action_photo = 2130837599;
 			
 			// aapt resource value: 0x7f020060
 			public const int navigation_empty_icon = 2130837600;
@@ -4761,7 +4764,7 @@ namespace JustStatics.Droid
 		{
 			
 			// aapt resource value: 0x7f0e0000
-			public const int navigation = 2131623936;
+			public const int bottom_navigation = 2131623936;
 			
 			static Menu()
 			{
@@ -4891,6 +4894,18 @@ namespace JustStatics.Droid
 			// aapt resource value: 0x7f090012
 			public const int abc_toolbar_collapse_description = 2131296274;
 			
+			// aapt resource value: 0x7f09002d
+			public const int action_events = 2131296301;
+			
+			// aapt resource value: 0x7f09002c
+			public const int action_home = 2131296300;
+			
+			// aapt resource value: 0x7f09002f
+			public const int action_more = 2131296303;
+			
+			// aapt resource value: 0x7f09002e
+			public const int action_photos = 2131296302;
+			
 			// aapt resource value: 0x7f09002b
 			public const int action_settings = 2131296299;
 			
@@ -4905,9 +4920,6 @@ namespace JustStatics.Droid
 			
 			// aapt resource value: 0x7f090023
 			public const int character_counter_pattern = 2131296291;
-			
-			// aapt resource value: 0x7f09002c
-			public const int empty = 2131296300;
 			
 			// aapt resource value: 0x7f090029
 			public const int hello = 2131296297;

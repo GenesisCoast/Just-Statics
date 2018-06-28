@@ -6,11 +6,13 @@ namespace JustStatics.Droid.Shared.ViewExtensions
 {
     public static class TextViewExtensions
     {
-        public static void SetCustomTypeface(this TextView view, AssetManager mgr, string path, TypefaceStyle style = TypefaceStyle.Normal)
+        public static TextView SetCustomTypeface(this TextView view, AssetManager mgr, string path, TypefaceStyle style = TypefaceStyle.Normal)
         {
             Typeface font = Typeface.CreateFromAsset(mgr, path);
 
             view.SetTypeface(font, TypefaceStyle.Normal);
+
+            return view;
         }
     }
 }
