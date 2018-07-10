@@ -1,0 +1,80 @@
+==== Query
+  curl -i -X GET \
+   "https://graph.facebook.com/v3.0/1916583878655057/events?fields=cover%2Cdescription%2Cname%2Cplace%2Cstart_time&access_token=<access token sanitized>"
+==== Access Token Info
+  {
+    "perms": [
+      "groups_access_member_info",
+      "public_profile"
+    ],
+    "user_id": 2210738468942838,
+    "app_id": 844356192415842
+  }
+==== Parameters
+- Query Parameters
+
+
+  {
+    "fields": "cover,description,name,place,start_time"
+  }
+- POST Parameters
+
+
+  {}
+==== Response
+  {
+    "data": [
+      {
+        "description": "Just Statics fortnightly meet, be great to meet all these new members and get to know a few of you 🤗",
+        "name": "Get Together",
+        "place": {
+          "name": "Argos Basildon Pipps Hill",
+          "location": {
+            "city": "Basildon",
+            "country": "United Kingdom",
+            "latitude": 51.581014892942,
+            "longitude": 0.44377684593201,
+            "street": "Unit E, Pipps Hill Retail Park, Miles Gray Road",
+            "zip": "SS14 3AF"
+          },
+          "id": "193002024044647"
+        },
+        "start_time": "2018-06-22T20:00:00+0100",
+        "id": "249779032267273"
+      },
+      {
+        "cover": {
+          "offset_x": 0,
+          "offset_y": 50,
+          "source": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/34411288_10211296745604143_3391414014960467968_n.jpg?_nc_cat=0&oh=2d37328be549694e2e04f88ac95d7682&oe=5BEA5F73",
+          "id": "10211296745564142"
+        },
+        "description": "We are now hosting Fortnightly meets👀\nStarts at 8:00pm till late and there will be a second location revealed on the night👍🏻\nEveryone is more than welcome to join, the more the merrier. All vehicles welcome😊\nLet’s make this a great evening and the first of many👌🏻\n\nIf clubs wish to attend then get in contact with either me or any of our admin team. If any club wishes to co host also message our admin team👍🏻\nCLUBS ATTENDING:\n\n•Just Statics\n•Stance Addictz\n•hatchbacks of Essex\n•club JDM UK\n\nStickers will be available on the night, if you like any of our apparel then you will have to contact either me or any of the admin team. We have sun strips and rear window stickers to pre order👍🏻\nGet sharing😜! Get inviting, let’s make it a good one👀\n——————————————————————\nThis meet is strictly static!\nNO\n• Wheel spins\n• Burnouts\n• Revving \n• Drifting\nEtc.",
+        "name": "Just Statics Fortnightly Meet",
+        "place": {
+          "name": "Ss13 3bj (mcdonalds)"
+        },
+        "start_time": "2018-06-22T20:00:00+0100",
+        "id": "177577356239585"
+      },
+      {
+        "cover": {
+          "offset_x": 0,
+          "offset_y": 50,
+          "source": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/33040847_10211174015335963_7997246890611572736_n.jpg?_nc_cat=0&oh=0811ad2ded0afa94ab759a6119211407&oe=5BAE8653",
+          "id": "10211174015295962"
+        },
+        "description": "This is a last minute meet, if you are interested in coming down don’t hesitate everyone is welcome😊The Meet is McDonald’s side👍🏻Would be nice to meet you all, hope to see you all there👀Just Statics Photography will be there📸",
+        "name": "Just Statics last minute meet",
+        "place": {
+          "name": "Pitsea flyover"
+        },
+        "start_time": "2018-05-22T19:30:00+0100",
+        "id": "135038434028040"
+      }
+    ],
+    "paging": "--sanitized--",
+    "__debug__": {}
+  }
+==== Debug Information from Graph API Explorer
+- https://developers.facebook.com/tools/explorer/844356192415842?method=GET&path=1916583878655057%2Fevents%3Ffields%3Dcover%2Cdescription%2Cname%2Cplace%2Cstart_time&version=v3.0

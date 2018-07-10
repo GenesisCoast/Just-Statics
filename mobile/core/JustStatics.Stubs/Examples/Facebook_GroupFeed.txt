@@ -1,0 +1,624 @@
+==== Query
+  curl -i -X GET \
+   "https://graph.facebook.com/v3.0/1916583878655057/feed?fields=created_time%2Cattachments&access_token=<access token sanitized>"
+==== Access Token Info
+  {
+    "perms": [
+      "groups_access_member_info",
+      "public_profile"
+    ],
+    "user_id": 2210738468942838,
+    "app_id": 844356192415842
+  }
+==== Parameters
+- Query Parameters
+
+
+  {
+    "fields": "created_time,attachments"
+  }
+- POST Parameters
+
+
+  {}
+==== Response
+  {
+    "data": [
+      {
+        "created_time": "2018-06-30T18:23:34+0000",
+        "id": "1916583878655057_2011503912496386",
+        "attachments": {
+          "data": [
+            {
+              "description": "Tell us a little something about yourself...\n\nAge: I’m 22\n\nJob: I work in a senior school doing pastoral care for my lovely year 8’s 🙈\n\nCar: I drive a MK 6 Fiesta ST, as pictured below, bought when I was 19. \n\nFact about my car: It has a decatted full miltek system, cammed & mapped. It also used to run barbie pink wheels back in the day. \n\nCar scene history: I used to run Southern Society, for 2 years, I then left to have some time to myself & now helping out Just Statics where I can. \n\nPlans for this year: I haven’t got any major plans for this year apart from roof being wrapped. \n\nI’d love to see some interesting ones! \n\nYour turn! \n\n#highlighterwaspoppinginthispic\n🚗💥💨",
+              "media": {
+                "image": {
+                  "height": 720,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36430367_2069219173295566_1031491277226508288_n.jpg?_nc_cat=0&oh=10fe09e38ed1f7057607f46247d11f54&oe=5BEBF395",
+                  "width": 576
+                }
+              },
+              "target": {
+                "id": "2069219169962233",
+                "url": "https://www.facebook.com/photo.php?fbid=2069219169962233&set=gm.2011503912496386&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=2069219169962233&set=gm.2011503912496386&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T09:26:34+0000",
+        "id": "1916583878655057_2011081019205342",
+        "attachments": {
+          "data": [
+            {
+              "description": "Morning Everyone!\n\nIt's side shot Saturday.\n\nShow us them side pics📸\n\n#JustStatics",
+              "media": {
+                "image": {
+                  "height": 720,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/36402044_1908174889222131_3489801162977181696_o.jpg?_nc_cat=0&oh=d85069c187bc307de838aae159af27d4&oe=5BA1B307",
+                  "width": 483
+                }
+              },
+              "target": {
+                "id": "1908174882555465",
+                "url": "https://www.facebook.com/photo.php?fbid=1908174882555465&set=gm.2011081019205342&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=1908174882555465&set=gm.2011081019205342&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T18:06:43+0000",
+        "id": "1916583878655057_2011490205831090"
+      },
+      {
+        "created_time": "2018-06-25T18:42:32+0000",
+        "id": "1916583878655057_2006499776330133",
+        "attachments": {
+          "data": [
+            {
+              "description": "Hello, I’m new to the page. I’m 21 and this is my 2007 Mk6 ST, who else has a rare hot hatch at a young age ?",
+              "media": {
+                "image": {
+                  "height": 540,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/q89/p180x540/36223133_2000084593599998_617170634178297856_n.jpg?_nc_cat=0&oh=98900cac62c41c174151ea9aa547a09b&oe=5BE4E338",
+                  "width": 720
+                }
+              },
+              "target": {
+                "id": "2000084590266665",
+                "url": "https://www.facebook.com/photo.php?fbid=2000084590266665&set=gm.2006499776330133&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=2000084590266665&set=gm.2006499776330133&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T18:29:46+0000",
+        "id": "1916583878655057_2011509112495866",
+        "attachments": {
+          "data": [
+            {
+              "subattachments": {
+                "data": [
+                  {
+                    "media": {
+                      "image": {
+                        "height": 405,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36368574_10156225516100708_5747303671029301248_n.jpg?_nc_cat=0&oh=27ac74ff1e81c797470303602868f2d6&oe=5BAFA18C",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "url": "https://www.facebook.com/photo.php?fbid=10156225516090708&set=p.10156225516090708&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=10156225516090708&set=p.10156225516090708&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 405,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36359935_10156225516085708_2845389548400148480_n.jpg?_nc_cat=0&oh=a5b1177eff8a64554e06f3530b58d3d4&oe=5BB3065C",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "url": "https://www.facebook.com/photo.php?fbid=10156225516080708&set=p.10156225516080708&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=10156225516080708&set=p.10156225516080708&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 405,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36310037_10156225516115708_5546571871870255104_n.jpg?_nc_cat=0&oh=66d0f64da4aa65dfc7d35bfc85a17a2c&oe=5BE617FB",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "url": "https://www.facebook.com/photo.php?fbid=10156225516110708&set=p.10156225516110708&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=10156225516110708&set=p.10156225516110708&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 598,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36427033_10156229862995708_465184549165334528_n.jpg?_nc_cat=0&oh=e1e85b764731bbd9f595d5b18c6a2832&oe=5BA0C47A",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "url": "https://www.facebook.com/photo.php?fbid=10156229862990708&set=p.10156229862990708&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=10156229862990708&set=p.10156229862990708&type=3"
+                  }
+                ]
+              },
+              "target": {
+                "url": "https://www.facebook.com/572350707/posts/10156225516345708/"
+              },
+              "title": "Photos from Terrianne Mewett's post",
+              "type": "album",
+              "url": "https://www.facebook.com/572350707/posts/10156225516345708/"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T15:11:34+0000",
+        "id": "1916583878655057_2011350542511723",
+        "attachments": {
+          "data": [
+            {
+              "description": "Thanks for the add :) here is my 1.9 cdti zaffy",
+              "media": {
+                "image": {
+                  "height": 484,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36412442_1831239153565379_1065683675078721536_o.jpg?_nc_cat=0&oh=03d2a38022d034126f2206328c893b3d&oe=5BB3FEF3",
+                  "width": 720
+                }
+              },
+              "target": {
+                "id": "1831239150232046",
+                "url": "https://www.facebook.com/photo.php?fbid=1831239150232046&set=gm.2011350542511723&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=1831239150232046&set=gm.2011350542511723&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T16:32:59+0000",
+        "id": "1916583878655057_2011410249172419",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T15:47:12+0000",
+        "id": "1916583878655057_2011376225842488",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-30T10:40:53+0000",
+        "id": "1916583878655057_2011129862533791",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-29T09:25:30+0000",
+        "id": "1916583878655057_2010109159302528",
+        "attachments": {
+          "data": [
+            {
+              "description": "/ Fucked it Friday \\\nLet’s see them mistakes",
+              "media": {
+                "image": {
+                  "height": 720,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36327680_10156414241889437_6722560533427388416_n.jpg?_nc_cat=0&oh=f3b0e52382daafff2a35e9bc934f7272&oe=5BA18CB5",
+                  "width": 540
+                }
+              },
+              "target": {
+                "id": "10156414241884437",
+                "url": "https://www.facebook.com/photo.php?fbid=10156414241884437&set=gm.2010109159302528&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=10156414241884437&set=gm.2010109159302528&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T19:22:21+0000",
+        "id": "1916583878655057_2009596072687170",
+        "attachments": {
+          "data": [
+            {
+              "description": "Hello everyone hope your all good, welcome back to another video and in this one me and my buddy shaniel go down to a place called southend on sea in Essex, ...",
+              "media": {
+                "image": {
+                  "height": 720,
+                  "src": "https://external.xx.fbcdn.net/safe_image.php?d=AQAvo7tKwF3iKL1K&w=720&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpAJ0ATxlUfA%2Fmaxresdefault.jpg&cfs=1&_nc_hash=AQDkcKI-TBgYAdV1",
+                  "width": 720
+                }
+              },
+              "target": {
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FpAJ0ATxlUfA&h=AT0YpmivNtQ-BXc9Mk8Hh5_81sq35dk5cIwxvw5MWjGIEDJ7fp4zXkHTfSCUDLc1Z7ReUIa0I3eq92x7lBXmTn5GfBPCrlM3BH30u-hztPVJ44j_o75zdkgkmG5Bbigwhqtq&s=1"
+              },
+              "title": "Southend seafront car scene is it still alive today ?",
+              "type": "share",
+              "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FpAJ0ATxlUfA&h=AT0YpmivNtQ-BXc9Mk8Hh5_81sq35dk5cIwxvw5MWjGIEDJ7fp4zXkHTfSCUDLc1Z7ReUIa0I3eq92x7lBXmTn5GfBPCrlM3BH30u-hztPVJ44j_o75zdkgkmG5Bbigwhqtq&s=1"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-29T20:42:30+0000",
+        "id": "1916583878655057_2010614969251947",
+        "attachments": {
+          "data": [
+            {
+              "description": "😂",
+              "media": {
+                "image": {
+                  "height": 645,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/36453756_2068339953383488_4594124597233713152_n.jpg?_nc_cat=0&oh=237834fa68df8e904a4cb938c50caf69&oe=5BAD45AF",
+                  "width": 450
+                }
+              },
+              "target": {
+                "id": "2068339950050155",
+                "url": "https://www.facebook.com/photo.php?fbid=2068339950050155&set=gm.2010614969251947&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=2068339950050155&set=gm.2010614969251947&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-29T14:07:04+0000",
+        "id": "1916583878655057_2010320782614699",
+        "attachments": {
+          "data": [
+            {
+              "subattachments": {
+                "data": [
+                  {
+                    "media": {
+                      "image": {
+                        "height": 405,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36368814_1748320288578762_5853926573454917632_n.jpg?_nc_cat=0&oh=44f02061f80a503c1d051abcf8ef946a&oe=5BAD396B",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "1748320278578763",
+                      "url": "https://www.facebook.com/photo.php?fbid=1748320278578763&set=gm.2010320782614699&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=1748320278578763&set=gm.2010320782614699&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 480,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/36389813_1748320291912095_3401541625153847296_n.jpg?_nc_cat=0&oh=2b1b3128381855dd617ca1006bbf4866&oe=5BA58FC9",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "1748320281912096",
+                      "url": "https://www.facebook.com/photo.php?fbid=1748320281912096&set=gm.2010320782614699&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=1748320281912096&set=gm.2010320782614699&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 376,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36377416_1748320315245426_3211118550664085504_n.jpg?_nc_cat=0&oh=03b7d3d37272f6f29caf8bab7be95f01&oe=5BEAE2AB",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "1748320301912094",
+                      "url": "https://www.facebook.com/photo.php?fbid=1748320301912094&set=gm.2010320782614699&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=1748320301912094&set=gm.2010320782614699&type=3"
+                  }
+                ]
+              },
+              "target": {
+                "id": "2010320782614699",
+                "url": "https://www.facebook.com/media/set/?set=pcb.2010320782614699&type=1"
+              },
+              "title": "Photos from Brandon Pearson's post",
+              "type": "album",
+              "url": "https://www.facebook.com/media/set/?set=pcb.2010320782614699&type=1"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-25T15:03:52+0000",
+        "id": "1916583878655057_2006318569681587"
+      },
+      {
+        "created_time": "2018-06-27T12:43:37+0000",
+        "id": "1916583878655057_2008175002829277",
+        "attachments": {
+          "data": [
+            {
+              "description": "Cheers for the add this is my booST bus",
+              "media": {
+                "image": {
+                  "height": 405,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/q83/s720x720/36325338_10155245266517003_7699419246828191744_o.jpg?_nc_cat=0&oh=e372168d8962e1d52e3138fb2dc66d6a&oe=5BAC23A8",
+                  "width": 720
+                }
+              },
+              "target": {
+                "id": "10155245266507003",
+                "url": "https://www.facebook.com/photo.php?fbid=10155245266507003&set=gm.2008175002829277&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=10155245266507003&set=gm.2008175002829277&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-29T08:54:21+0000",
+        "id": "1916583878655057_2010080975972013",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T19:06:11+0000",
+        "id": "1916583878655057_2009584362688341",
+        "attachments": {
+          "data": [
+            {
+              "subattachments": {
+                "data": [
+                  {
+                    "media": {
+                      "image": {
+                        "height": 480,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/36300000_2175700375780715_6112868055786717184_n.jpg?_nc_cat=0&oh=0691d1c3b8e64a9799ab40237f694d7c&oe=5BE53642",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "2175700369114049",
+                      "url": "https://www.facebook.com/photo.php?fbid=2175700369114049&set=gm.2009584362688341&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=2175700369114049&set=gm.2009584362688341&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 540,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/36335956_2175700465780706_5713685415815282688_n.jpg?_nc_cat=0&oh=4d529192841ed582020fd314c0ed95ed&oe=5BA9EC2E",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "2175700462447373",
+                      "url": "https://www.facebook.com/photo.php?fbid=2175700462447373&set=gm.2009584362688341&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=2175700462447373&set=gm.2009584362688341&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 242,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/q81/s720x720/36307244_2175700485780704_3313187258747584512_o.jpg?_nc_cat=0&oh=c17fef5e959adc6086dcf5d9d5c53405&oe=5BAB72B2",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "2175700479114038",
+                      "url": "https://www.facebook.com/photo.php?fbid=2175700479114038&set=gm.2009584362688341&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=2175700479114038&set=gm.2009584362688341&type=3"
+                  },
+                  {
+                    "media": {
+                      "image": {
+                        "height": 259,
+                        "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/q83/s720x720/36376241_2175700475780705_4515557112675303424_o.jpg?_nc_cat=0&oh=57e88b134cbc325a6e4b86e4d794d610&oe=5BB2F36B",
+                        "width": 720
+                      }
+                    },
+                    "target": {
+                      "id": "2175700469114039",
+                      "url": "https://www.facebook.com/photo.php?fbid=2175700469114039&set=gm.2009584362688341&type=3"
+                    },
+                    "type": "photo",
+                    "url": "https://www.facebook.com/photo.php?fbid=2175700469114039&set=gm.2009584362688341&type=3"
+                  }
+                ]
+              },
+              "target": {
+                "id": "2009584362688341",
+                "url": "https://www.facebook.com/media/set/?set=pcb.2009584362688341&type=1"
+              },
+              "title": "Photos from Ryan Smith's post",
+              "type": "album",
+              "url": "https://www.facebook.com/media/set/?set=pcb.2009584362688341&type=1"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T21:22:29+0000",
+        "id": "1916583878655057_2009658789347565",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T19:01:49+0000",
+        "id": "1916583878655057_2009581642688613",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T17:07:04+0000",
+        "id": "1916583878655057_2009490412697736",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T15:42:13+0000",
+        "id": "1916583878655057_2009421379371306",
+        "attachments": {
+          "data": [
+            {
+              "description": "Thanks for the add.",
+              "media": {
+                "image": {
+                  "height": 540,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/q85/p180x540/36277444_10216304107332966_2011925254548488192_o.jpg?_nc_cat=0&oh=6cec58ed6962ab1c8af461977458edac&oe=5BA9780F",
+                  "width": 720
+                }
+              },
+              "target": {
+                "id": "10216304107252964",
+                "url": "https://www.facebook.com/photo.php?fbid=10216304107252964&set=gm.2009421379371306&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=10216304107252964&set=gm.2009421379371306&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-28T08:53:06+0000",
+        "id": "1916583878655057_2009040799409364"
+      },
+      {
+        "created_time": "2018-06-25T20:13:57+0000",
+        "id": "1916583878655057_2006561436323967",
+        "attachments": {
+          "data": [
+            {
+              "description": "Thanks for the add Brandon! Here’s my car",
+              "media": {
+                "image": {
+                  "height": 496,
+                  "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/36137544_1862987860407192_420138459718483968_n.jpg?_nc_cat=0&oh=131e3eda3aa4e0623fdf02e3a5db6f80&oe=5BE22443",
+                  "width": 720
+                }
+              },
+              "target": {
+                "id": "1862987853740526",
+                "url": "https://www.facebook.com/photo.php?fbid=1862987853740526&set=gm.2006561436323967&type=3"
+              },
+              "type": "photo",
+              "url": "https://www.facebook.com/photo.php?fbid=1862987853740526&set=gm.2006561436323967&type=3"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-27T20:41:28+0000",
+        "id": "1916583878655057_2008602759453168",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      },
+      {
+        "created_time": "2018-06-27T18:05:06+0000",
+        "id": "1916583878655057_2008483566131754",
+        "attachments": {
+          "data": [
+            {
+              "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.",
+              "title": "Attachment Unavailable",
+              "type": "unavailable"
+            }
+          ]
+        }
+      }
+    ],
+    "paging": "--sanitized--",
+    "__debug__": {}
+  }
+==== Debug Information from Graph API Explorer
+- https://developers.facebook.com/tools/explorer/844356192415842?method=GET&path=1916583878655057%2Ffeed%3Ffields%3Dcreated_time%2Cattachments&version=v3.0

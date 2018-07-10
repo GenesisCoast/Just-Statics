@@ -1,8 +1,8 @@
 ﻿using Android.App;
 using Android.OS;
-using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Widget;
+using JustStatics.Droid.Assets.Factories;
 using JustStatics.Droid.Shared.ViewExtensions;
 using R = JustStatics.Droid.Resource;
 using ToolbarV7 = Android.Support.V7.Widget.Toolbar;
@@ -22,24 +22,20 @@ namespace JustStatics.Droid
             // Set our view from the "main" layout resource
             SetContentView(R.Layout.activity_main);
 
-            // Set the toolbar to the element in the layout
-            //SetSupportActionBar(FindViewById<ToolbarV7>(R.Id.top_toolbar));
-
             // Configure the toolbar
             FindViewById<ToolbarV7>(R.Id.top_toolbar)
                 .SetEmptyTitle()
                 .SetAsSupportActionBar(this);
 
             // Set the custom typeface of the textview
-            FindViewById<TextView>(R.Id.app_name).SetCustomTypeface(
-                Assets,
-                "fonts/Harlow Solid Italic.ttf");
+            FindViewById<TextView>(R.Id.app_name)
+                .SetCustomTypeface(Assets, FontAsset.harlow_solid_italic)
+                .SetForegroundGradient(GradientAsset.grad_mean_fruit);
 
             // Set the bottom navigation menu
-            FindViewById<BottomNavigationView>(R.Id.bottom_navigation)
-                .SetItemIconTintList(this, R.Color.bottom_navigation)
-                .RemoveShiftingMode();
-            //.InflateMenu(R.Menu.bottom_navigation);
+            //FindViewById<BottomNavigationView>(R.Id.bottom_navigation)
+            //    .SetItemIconTintList(this, R.Color.bottom_navigation)
+            //    .RemoveShiftingMode();
         }
     }
 }
