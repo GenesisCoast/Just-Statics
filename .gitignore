@@ -189,3 +189,7 @@ FakesAssemblies/
 
 *.userprefs
 @GenesisCoast
+
+# Visual Studio
+.vs/
+**/.vs/
