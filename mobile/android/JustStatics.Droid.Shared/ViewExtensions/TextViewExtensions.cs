@@ -1,7 +1,7 @@
 ﻿using Android.Content.Res;
 using Android.Graphics;
 using Android.Widget;
-using JustStatics.Droid.Assets.Factories;
+using JustStatics.Droid.Shared.AssetsFactories;
 
 namespace JustStatics.Droid.Shared.ViewExtensions
 {
@@ -14,9 +14,9 @@ namespace JustStatics.Droid.Shared.ViewExtensions
             return view;
         }
 
-        public static TextView SetForegroundGradient(this TextView view, GradientAsset gradient)
+        public static TextView SetForegroundGradient(this TextView view, AssetManager mgr, GradientAsset gradient)
         {
-            view.Paint.SetShader(GradientFactory.Build(gradient, view.TextSize));
+            view.Paint.SetShader(GradientFactory.Build(mgr, gradient, view.TextSize));
 
             return view;
         }

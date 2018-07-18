@@ -62,18 +62,14 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\fonts\harlow_solid_italic.ttf" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Factories\FontAsset.tt">
+    <None Include="Factories\FontAsset.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>FontAsset.cs</LastGenOutput>
-    </Content>
-    <Content Include="Factories\GradientAsset.tt">
+    </None>
+    <None Include="Factories\GradientAsset.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>GradientAsset.cs</LastGenOutput>
-    </Content>
-    <AndroidAsset Include="Assets\gradients\grad_mean_fruit.json" />
+    </None>
     <Compile Include="Factories\FontAsset.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

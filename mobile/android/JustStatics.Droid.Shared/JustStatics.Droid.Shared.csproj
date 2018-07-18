@@ -45,13 +45,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssetFactories\FontAsset.cs">
+      <DependentUpon>FontAsset.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="AssetFactories\FontFactory.cs" />
+    <Compile Include="AssetFactories\GradientAsset.cs">
+      <DependentUpon>GradientAsset.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="AssetFactories\GradientFactory.cs" />
+    <Compile Include="AssetFactories\GradientFactory.Gradient.cs" />
     <Compile Include="JavaExtensions\FieldExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewExtensions\BottomNavigationViewExtensions.cs" />
+    <Compile Include="ResourceExtensions\AssetManagerExtensions.cs" />
+    <Compile Include="ViewExtensions\BottomNavigationViewExExtensions.cs" />
     <Compile Include="ViewExtensions\TextViewExtensions.cs" />
     <Compile Include="ViewExtensions\ToolbarV7ViewExtension.cs" />
+    <Compile Include="ViewExtensions\ViewGroupExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Naxam.Ittianyu.BottomNavExtension">
+      <Version>1.2.4</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>11.0.2</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design">
       <Version>25.4.0.2</Version>
     </PackageReference>
@@ -60,17 +81,37 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JustStatics.Droid.Assets\JustStatics.Droid.Assets.csproj">
-      <Project>{023B13B1-76C6-40F0-AEC2-F66B86B1531A}</Project>
-      <Name>JustStatics.Droid.Assets</Name>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AssetFactories\FontAsset.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>FontAsset.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AssetFactories\GradientAsset.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>GradientAsset.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\core\JustStatics.Common\JustStatics.csproj">
+      <Project>{F50C227D-B3B7-42B7-82E8-45B8CC46E0E5}</Project>
+      <Name>JustStatics</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
   </Target>
   -->
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\TextTemplating\Microsoft.TextTemplating.targets" Condition="false" />
+  <PropertyGroup>
+    <TransformOnBuild>true</TransformOnBuild>
+    <!-- Other properties can be inserted here -->
+  </PropertyGroup>
 </Project>

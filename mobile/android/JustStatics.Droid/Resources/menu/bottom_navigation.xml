@@ -15,9 +15,7 @@
 
   <item
     android:id="@+id/navigation_car_of_the_month"
-    android:title=""
-    app:showAsAction="always"
-    app:actionLayout="@layout/view_accent_grade" />
+    android:icon="@drawable/ic_action_grade" />
 
   <item
     android:id="@+id/navigation_photos"

@@ -14,6 +14,10 @@ namespace JustStatics.Droid.Assets.Factories
         {
             string filePath = System.IO.Path.Combine(GRADIENT_DIR, asset.ToString() + FILE_EXTENSION);
 
+            var test = manager.List("fonts/");
+            var test2 = manager.List("gradients/");
+            var test3 = manager.List("Assets/gradients/");
+
             var gradient = OpenAndReadGradient(manager, filePath);
 
             return new LinearGradient(0, 0, 0, 0, gradient.GetColorAsArgb(), gradient.GetColorPositions(), Shader.TileMode.Mirror);
