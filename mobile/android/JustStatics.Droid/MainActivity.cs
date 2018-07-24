@@ -1,7 +1,8 @@
 ﻿using Android.App;
 using Android.OS;
+using Android.Support.Design.Widget;
 using Android.Support.V7.App;
-using Android.Support.V7.Widget;
+using Android.Views;
 using Android.Widget;
 using Com.Ittianyu.Bottomnavigationviewex;
 using JustStatics.Droid.Shared.AssetsFactories;
@@ -19,6 +20,9 @@ namespace JustStatics.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            Window.AddFlags(WindowManagerFlags.LayoutNoLimits);
+            Window.AddFlags(WindowManagerFlags.TranslucentNavigation);
+
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
@@ -31,8 +35,8 @@ namespace JustStatics.Droid
 
             // Set the custom typeface of the textview
             FindViewById<TextView>(R.Id.app_name)
-                .SetCustomTypeface(Assets, FontAsset.harlow_solid_italic)
-                .SetForegroundGradient(Assets, GradientAsset.grad_mean_fruit);
+                .SetCustomTypeface(Assets, FontAsset.harlow_solid_italic);
+            //.SetForegroundGradient(Assets, GradientAsset.grad_mean_fruit);
 
             int[][] states = new int[][] {
                 new int[] { Android.Resource.Attribute.StateEnabled }, // enabled
@@ -42,22 +46,57 @@ namespace JustStatics.Droid
                 Android.Resource.Color.HoloRedDark
             };
 
-            var test = FindViewById<BottomNavigationViewEx>(R.Id.bnve_bigger_icon);
+            var test = FindViewById<BottomNavigationViewEx>(R.Id.bottom_navigation);
             test.EnableShiftingMode(false);
             test.EnableItemShiftingMode(false);
-            test.SetIconSizeAt(2, 48, 48);
+            test.CurrentItem = 0;
+            //test.SetIconSizeAt(2, 48, 48);
             test.EnableAnimation(false);
-            test.SetIconMarginTop(2, 0);
+            //test.SetIconMarginTop(2, 0);
+            test.NavigationItemSelected += OnBottomNavigationItemSelected;
+
             //test.SetItemBackground(2, Android.Resource.Color.HoloRedDark);
             //var result = test.GetBottomNavigationItemView(2).GetChildAt(0) as AppCompatImageView;
 
-            var result = test.GetBottomNavigationItemView(2).GetChildAt<AppCompatImageView>(0);
-            result.Background = GetDrawable(R.Drawable.bg_gradient_soft);
+            //var result = test.GetIconAt(2);
+            //result.Background = GetDrawable(R.Drawable.bg_gradient_soft);
 
             // Set the bottom navigation menu
             //FindViewById<BottomNavigationView>(R.Id.bottom_navigation)
             //    .SetItemIconTintList(this, R.Color.bottom_navigation)
             //    .RemoveShiftingMode();
+        }
+
+        private void OnBottomNavigationItemSelected(object sender, BottomNavigationView.NavigationItemSelectedEventArgs e)
+        {
+            var view = sender as BottomNavigationViewEx;
+
+            switch (view.SelectedItemId)
+            {
+                case R.Id.navigation_home:
+                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_home));
+                    break;
+
+                case R.Id.navigation_events:
+                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events));
+                    break;
+
+                case R.Id.navigation_car_of_the_month:
+
+                    break;
+
+                case R.Id.navigation_photos:
+                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events));
+                    break;
+
+                case R.Id.navigation_more:
+
+                    break;
+
+                default:
+
+                    break;
+            }
         }
     }
 }

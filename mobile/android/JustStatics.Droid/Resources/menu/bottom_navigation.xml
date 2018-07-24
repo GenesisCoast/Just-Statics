@@ -15,6 +15,7 @@
 
   <item
     android:id="@+id/navigation_car_of_the_month"
+    android:title="@string/action_star"
     android:icon="@drawable/ic_action_grade" />
 
   <item

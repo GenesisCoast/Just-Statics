@@ -1,5 +1,6 @@
 ﻿using Android.Content.Res;
 using Android.Graphics;
+using Android.Graphics.Drawables;
 using JustStatics.Droid.Shared.ResourceExtensions;
 using System;
 using System.Linq;
@@ -12,7 +13,21 @@ namespace JustStatics.Droid.Shared.AssetsFactories
         private const string FILE_EXTENSION = ".json";
         private const string GRADIENT_DIR = "gradients/";
 
-        public static LinearGradient Build(AssetManager manager, GradientAsset asset, double length)
+        public static GradientDrawable BuildDrawable(AssetManager manager, GradientAsset asset)
+        {
+            string filePath = IOPath.Combine(GRADIENT_DIR, asset.ToString() + FILE_EXTENSION);
+
+            var gradient = manager.OpenAndReadJson<Gradient>(filePath);
+
+            //var result = test.GetBottomNavigationItemView(2).GetChildAt<AppCompatImageView>(0);
+            //result.Background = GetDrawable(R.Drawable.bg_gradient_soft);
+
+            var shape = new GradientDrawable(GradientDrawable.Orientation.BlTr, gradient.GetColorAsArgb());
+
+            return shape;
+        }
+
+        public static LinearGradient BuildGradient(AssetManager manager, GradientAsset asset, double length)
         {
             string filePath = IOPath.Combine(GRADIENT_DIR, asset.ToString() + FILE_EXTENSION);
 

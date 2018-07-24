@@ -16,7 +16,7 @@ namespace JustStatics.Droid.Shared.ViewExtensions
 
         public static TextView SetForegroundGradient(this TextView view, AssetManager mgr, GradientAsset gradient)
         {
-            view.Paint.SetShader(GradientFactory.Build(mgr, gradient, view.TextSize));
+            view.Paint.SetShader(GradientFactory.BuildGradient(mgr, gradient, view.TextSize));
 
             return view;
         }
