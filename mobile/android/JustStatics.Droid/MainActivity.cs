@@ -74,11 +74,19 @@ namespace JustStatics.Droid
             switch (view.SelectedItemId)
             {
                 case R.Id.navigation_home:
-                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_home));
+                    FragmentManager
+                        .BeginTransaction()
+                        .Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_home))
+                        .Commit();
+
                     break;
 
                 case R.Id.navigation_events:
-                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events));
+                    FragmentManager
+                        .BeginTransaction()
+                        .Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events))
+                        .Commit();
+
                     break;
 
                 case R.Id.navigation_car_of_the_month:
@@ -86,7 +94,11 @@ namespace JustStatics.Droid
                     break;
 
                 case R.Id.navigation_photos:
-                    FragmentManager.BeginTransaction().Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events));
+                    FragmentManager
+                        .BeginTransaction()
+                        .Replace(R.Id.main_fragment, new FragmentInflater(R.Layout.fragment_events))
+                        .Commit();
+
                     break;
 
                 case R.Id.navigation_more:

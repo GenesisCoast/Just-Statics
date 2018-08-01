@@ -191,5 +191,7 @@ FakesAssemblies/
 @GenesisCoast
 
 # Visual Studio
+.vs
+.vs/**
 .vs/
 **/.vs/
